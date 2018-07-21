@@ -1,4 +1,4 @@
-S.No.,Room_No.,Bed_No.,Student_Code,Students_Name, Move_In_Date , ActualRent , Security_Amount , Move_in_charges ,Rents, Food , Security , Electricity ,Total
+S.No.,Room_No.,Bed_No.,Student_Code,Students_Name,Move_In_Date,ActualRent,Security_Amount,Move_in_charges,Rents,Food,Security, Electricity ,Total
 1,101,101A,PF009101A,Versha Singh,,7600, -   , -   ,7600, -   , -   ,85,7685
 2,,101B,PF009101B,,, -   , -   , -   , -   , -   , -   , -   ,
 3,,101C,PF009101C,, -   , -   , -   , -   , -   , -   , -   , -   ,
