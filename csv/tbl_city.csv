@@ -1,0 +1,8 @@
+"id","city_name","sub_locality","city","state","pincode","country","latitute","longitute","status","slug","created_at","updated_at"
+"5","Noida","","Noida","Uttar Pradesh","","India","28.5355161","77.39102649999995","1","noida","15-01-2018 01:14:08","25-01-2018 05:34:29"
+"6","Lucknow","","Lucknow","Uttar Pradesh","","India","26.8466937","80.94616599999995","1","lucknow","15-01-2018 01:14:17","25-01-2018 05:34:18"
+"7","Indore","","Indore","Madhya Pradesh","","India","22.7195687","75.85772580000003","1","indore","15-01-2018 01:19:07","27-01-2018 10:53:40"
+"8","Greater Noida","","Greater Noida","Uttar Pradesh","","India","28.4743879","77.50399040000002","1","greater-noida","16-01-2018 01:51:18","25-01-2018 05:33:44"
+"9","Laxmi Nagar","Laxmi Nagar","Laxmi Nagar","Delhi","","India","28.636736","77.27480700000001","1","laxmi-nagar","17-01-2018 10:31:48","25-01-2018 05:34:10"
+"10","North Delhi","","North Delhi","Delhi","","India","28.694608837720136","77.21471710002447","1","north-delhi","23-01-2018 04:24:05","24-04-2018 06:56:44"
+"11","South Delhi","","South Delhi","Delhi","","India","28.528909300049857","77.20505265251461","1","south-delhi","24-04-2018 06:57:47","24-04-2018 06:58:00"

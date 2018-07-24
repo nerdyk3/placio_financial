@@ -1,0 +1,5 @@
+"name","type"
+"id","INT"
+"property_id","INT"
+"title","VARCHAR(0)"
+"attachment","VARCHAR(26)"

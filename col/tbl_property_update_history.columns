@@ -1,0 +1,6 @@
+"name","type"
+"id","INT"
+"property_id","INT"
+"user_id","INT"
+"page_name","VARCHAR(9)"
+"updated_date","VARCHAR(19)"

@@ -1,0 +1,4 @@
+"name","type"
+"id","INT"
+"name","VARCHAR(22)"
+"message","VARCHAR(231)"

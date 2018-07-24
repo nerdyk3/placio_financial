@@ -1,0 +1,6 @@
+"name","type"
+"id","INT"
+"property_id","INT"
+"attachment","VARCHAR(51)"
+"cover","VARCHAR(3)"
+"temp_id","INT"

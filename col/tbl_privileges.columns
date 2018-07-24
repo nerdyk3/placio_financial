@@ -1,0 +1,6 @@
+"name","type"
+"id","INT"
+"user_id","INT"
+"name","VARCHAR(28)"
+"order_by","INT"
+"status","INT"

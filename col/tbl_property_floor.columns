@@ -1,0 +1,6 @@
+"name","type"
+"id","INT"
+"property_id","INT"
+"block_name","VARCHAR(0)"
+"floor_name","VARCHAR(18)"
+"no_of_room","INT"

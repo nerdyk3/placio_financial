@@ -1,0 +1,7 @@
+"name","type"
+"id","INT"
+"name","VARCHAR(30)"
+"subject","VARCHAR(82)"
+"sender_name","VARCHAR(6)"
+"sender_email","VARCHAR(15)"
+"content","TEXT"

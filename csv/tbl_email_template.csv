@@ -1,0 +1,1160 @@
+"id","name","subject","sender_name","sender_email","content"
+"1","send-login-credentails","Placio HMS login detail","Placio","hello@placio.in","<table style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 15px; width: 100%; background: #f2f2f2; margin: 0; padding: 0;"">
+<tbody>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0; padding: 0;"">
+<td style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; vertical-align: top; display: block!important; max-width: 600px!important; clear: both!important; margin: 0 auto; padding: 0;"" valign=""top"" width=""600"">
+<div style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; max-width: 600px; display: block; margin: 0 auto; padding: 20px;"">
+<table style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; border-radius: 3px; background: #fff; margin: 0; padding: 0; border: 1px solid #e9e9e9;"" width=""100%"" cellspacing=""0"" cellpadding=""2"">
+<tbody>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; margin: 0; padding: 0;"">
+<td style=""text-align: center; box-sizing: border-box; vertical-align: middle; margin: 0; padding: 18px 30px 0px 30px;"" valign=""center"">
+<div style=""border-bottom: 1px solid #e5e5e5; padding-bottom: 5px; text-align: center;""><a style=""text-decoration: none; display: inline-block;"" href=""#"" target=""_blank""> <img style=""width: 25%;"" src=""{{base_url}}{{logo_name}}"" alt=""Placio"" /> </a></div>
+</td>
+</tr>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; margin: 0; padding: 0;"">
+<td style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; vertical-align: top; margin: 0; padding: 30px; padding-top: 5px;"" valign=""top"">
+<p>Hi {{name}}</p>
+<table style=""margin-left: 15px;"" width=""100%"" cellspacing=""0"" cellpadding=""5"">
+<tbody>
+<tr>
+<td><strong>User Id </strong></td>
+<td>: {{user_id}}</td>
+</tr>
+<tr>
+<td><strong>Password </strong></td>
+<td>: {{password}}</td>
+</tr>
+<tr>
+<td><strong>Url</strong></td>
+<td>: {{site_url}}</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>Thanks &amp; Regards, <br /> {{site_name}}</p>
+</td>
+</tr>
+</tbody>
+</table>
+<div style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; width: 100%; clear: both; color: #999; margin: 0; padding-top: 20px; padding-bottom: 20px;"">
+<table style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0; padding: 0;"" width=""100%"">
+<tbody>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0; padding: 0;"">
+<td style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 12px; vertical-align: top; text-align: center; margin: 0; padding: 0 0 20px;"" align=""center"" valign=""top""><a style=""text-decoration: none; display: inline-block; margin-right: 5px;"" href=""{{facebook_url}}"" target=""_blank""> <img title=""facebook"" src=""{{base_url}}hms/img/social/email/facebook.png"" alt=""facebook"" width=""30"" /> </a> <a style=""text-decoration: none; display: inline-block; margin-right: 5px;"" href=""{{linkedin_url}}"" target=""_blank""> <img title=""linkedin"" src=""{{base_url}}hms/img/social/email/linkedin.png"" alt=""linkedin"" width=""30"" /> </a> <a style=""text-decoration: none; display: inline-block; margin-right: 5px;"" href=""{{instagram_url}}"" target=""_blank""> <img title=""instagram"" src=""{{base_url}}hms/img/social/email/instagram.png"" alt=""instagram"" width=""30"" /> </a> <a style=""text-decoration: none; display: inline-block; margin-right: 5px;"" href=""{{twitter_url}}"" target=""_blank""> <img title=""twitter"" src=""{{base_url}}hms/img/social/email/twitter.png"" alt=""twitter"" width=""30"" /> </a> <a style=""text-decoration: none; display: inline-block;"" href=""{{google_plus_url}}"" target=""_blank""> <img title=""google"" src=""{{base_url}}hms/img/social/email/google-plus.png"" alt=""google"" width=""30"" /> </a></td>
+</tr>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0; padding: 0;"">
+<td style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 12px; vertical-align: top; text-align: center; margin: 0; padding: 0 0 10px;"" align=""center"" valign=""top"">Email : <a style=""text-decoration: none; color: #777777; display: inline-block;"" href=""mailto:hello@placio.in"" target=""_blank"">hello@placio.in</a> Mob No. : <a style=""text-decoration: none; color: #777777;"" href=""tel:+917053109531"" target=""_blank"">+91 705.310.9531</a><br />
+<p style=""color: #777777; display: inline-block;"">PLACIO, 8th Floor Eco Towers, Plot no. A 14, , Sector 125, Noida, 201301 Uttar Pradesh</p>
+</td>
+</tr>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0; padding: 0;"">
+<td style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 12px; vertical-align: top; text-align: center; margin: 0; padding: 0 0 20px;"" align=""center"" valign=""top"">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</td>
+<td style=""font-family: 'Helvetica Neue','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; vertical-align: top; margin: 0; padding: 0;"" valign=""top"">&nbsp;</td>
+</tr>
+</tbody>
+</table>"
+"2","send-bed-allotment-detail","Placio - Boarding Pass ","Placio","hello@placio.in","<table style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 15px; width: 100%; background: #f2f2f2; margin: 0; padding: 0;"">
+<tbody>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0; padding: 0;"">
+<td style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; vertical-align: top; display: block!important; max-width: 600px!important; clear: both!important; margin: 0 auto; padding: 0;"" valign=""top"" width=""600"">
+<div style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; max-width: 600px; display: block; margin: 0 auto; padding: 20px;"">
+<table style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; border-radius: 3px; background: #fff; margin: 0; padding: 0; border: 1px solid #e9e9e9;"" width=""100%"" cellspacing=""0"" cellpadding=""2"">
+<tbody>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; margin: 0; padding: 0;"">
+<td style=""text-align: center; box-sizing: border-box; vertical-align: middle; margin: 0; padding: 18px 30px 0px 30px;"" valign=""center"">
+<div style=""border-bottom: 1px solid #e5e5e5; padding-bottom: 5px; text-align: center;""><a style=""text-decoration: none; display: inline-block;"" href=""#"" target=""_blank""> <img style=""width: 25%;"" src=""{{base_url}}{{logo_name}}"" alt=""Placio"" /> </a></div>
+</td>
+</tr>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; margin: 0; padding: 0;"">
+<td style=""font-family: 'Open Sans', Helvetica, Helvetica, Arial, sans-serif; box-sizing: border-box; vertical-align: top; margin: 0px; padding: 5px 30px 30px;"" valign=""top"">
+<p>Greetings!!!&nbsp;</p>
+<p>{{tenant_name}}</p>
+<p>Congratulations,</p>
+<p>You are now onboarded for Placio Living.&nbsp;</p>
+<p>Kindly keep following details for an Amazing&nbsp;Placio Family experience&nbsp;--</p>
+<table border=""1"" width=""100%"" cellspacing=""0"" cellpadding=""5"">
+<tbody>
+<tr>
+<td style=""width: 35%; padding: 10px;"">Tenant ID</td>
+<td>&nbsp; {{tnt_id}}</td>
+</tr>
+<tr>
+<td style=""padding: 10px;"">Placio Property Name</td>
+<td>&nbsp; {{property_name}}</td>
+</tr>
+<tr>
+<td style=""padding: 10px;"">Floor No</td>
+<td>&nbsp; {{floor_no}}</td>
+</tr>
+<tr>
+<td style=""padding: 10px;"">Room No.</td>
+<td>&nbsp; {{room_no}}</td>
+</tr>
+<tr>
+<td style=""padding: 10px;"">Bed No.</td>
+<td>&nbsp; {{bed_no}}</td>
+</tr>
+</tbody>
+</table>
+<p><br />To Connect with your Community Manager Please note the details:-</p>
+<table border=""1"" width=""100%"" cellspacing=""0"" cellpadding=""5"">
+<tbody>
+<tr>
+<td style=""width: 35%; padding: 10px;"">Manager Name</td>
+<td>&nbsp; {{cm_name}}</td>
+</tr>
+<tr>
+<td style=""padding: 10px;"">Contact details</td>
+<td>&nbsp; {{cm_mobile_no}}</td>
+</tr>
+</tbody>
+</table>
+<p><strong><br />Payment Instructions:<br /></strong></p>
+<p><strong>1. E-collect :-</strong>&nbsp;(*preferred)</p>
+<p>RTGS/NEFT/IMPS transfer can be made directly from bank account for which Following Procedure to be followed:-</p>
+<table border=""1"" width=""100%"" cellspacing=""0"" cellpadding=""5"">
+<tbody>
+<tr>
+<td style=""width: 35%; padding: 10px;"">Beneficiary Name</td>
+<td>&nbsp; Rental Stay Private Limited</td>
+</tr>
+<tr>
+<td style=""padding: 10px;"">Account No.</td>
+<td>&nbsp;{{account_no}}</td>
+</tr>
+<tr>
+<td style=""padding: 10px;"">IFSC Code</td>
+<td>&nbsp;YESB0CMSNOC</td>
+</tr>
+</tbody>
+</table>
+<p><strong><br />2. Card/UPI/Wallets :-</strong></p>
+<p style=""text-align: left;"">Collection through Card/UPI/Wallets/net banking is available online on</p>
+<p style=""text-align: center;""><a style=""background: #4bd074; border-collapse: collapse!important; border: none; color: #ffffff; display: block; font-family: 'Helvetica','Arial',sans-serif; font-size: 14px; font-weight: normal; line-height: 19px; margin: 18px 32px 28px 140px; padding: 8px 0; text-align: center; vertical-align: top; width: 40%;"" title=""Pay Now"" href=""https://www.placio.in/payrent?feesetid={{fee_setting_id}}"" target=""_blank"">PAY NOW</a></p>
+<p>Thanks &amp; Regards, <br /> {{site_name}}</p>
+</td>
+</tr>
+</tbody>
+</table>
+<div style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; width: 100%; clear: both; color: #999; margin: 0; padding-top: 20px; padding-bottom: 20px;"">
+<table style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0; padding: 0;"" width=""100%"">
+<tbody>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0; padding: 0;"">
+<td style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 12px; vertical-align: top; text-align: center; margin: 0; padding: 0 0 20px;"" align=""center"" valign=""top""><a style=""text-decoration: none; display: inline-block; margin-right: 5px;"" href=""{{facebook_url}}"" target=""_blank""> <img title=""facebook"" src=""{{base_url}}hms/img/social/email/facebook.png"" alt=""facebook"" width=""30"" /> </a> <a style=""text-decoration: none; display: inline-block; margin-right: 5px;"" href=""{{linkedin_url}}"" target=""_blank""> <img title=""linkedin"" src=""{{base_url}}hms/img/social/email/linkedin.png"" alt=""linkedin"" width=""30"" /> </a> <a style=""text-decoration: none; display: inline-block; margin-right: 5px;"" href=""{{instagram_url}}"" target=""_blank""> <img title=""instagram"" src=""{{base_url}}hms/img/social/email/instagram.png"" alt=""instagram"" width=""30"" /> </a> <a style=""text-decoration: none; display: inline-block; margin-right: 5px;"" href=""{{twitter_url}}"" target=""_blank""> <img title=""twitter"" src=""{{base_url}}hms/img/social/email/twitter.png"" alt=""twitter"" width=""30"" /> </a> <a style=""text-decoration: none; display: inline-block;"" href=""{{google_plus_url}}"" target=""_blank""> <img title=""google"" src=""{{base_url}}hms/img/social/email/google-plus.png"" alt=""google"" width=""30"" /> </a></td>
+</tr>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0; padding: 0;"">
+<td style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 12px; vertical-align: top; text-align: center; margin: 0; padding: 0 0 10px;"" align=""center"" valign=""top""><a style=""text-decoration: none; color: #777777; display: inline-block;"" href=""mailto:hello@placio.in"" target=""_blank"">Contact Us :-&nbsp; hello@placio.in</a>&nbsp; |&nbsp;<a style=""text-decoration: none; color: #777777;"" href=""tel:+917053109531"" target=""_blank"">+91 705.310.9531</a><br />
+<p style=""color: #777777; display: inline-block;"">PLACIO,8th Floor Eco Towers, Plot no. A 14, , Sector 125, Noida, 201301 Uttar Pradesh</p>
+</td>
+</tr>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0; padding: 0;"">
+<td style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 12px; vertical-align: top; text-align: center; margin: 0; padding: 0 0 20px;"" align=""center"" valign=""top"">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</td>
+<td style=""font-family: 'Helvetica Neue','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; vertical-align: top; margin: 0; padding: 0;"" valign=""top"">&nbsp;</td>
+</tr>
+</tbody>
+</table>"
+"3","send-edit-bed-allotment-detail","Bed re-allocation & Manager assignment","Placio","hello@placio.in","<table style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 15px; width: 100%; background: #f2f2f2; margin: 0; padding: 0;"">
+<tbody>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0; padding: 0;"">
+<td style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; vertical-align: top; display: block!important; max-width: 600px!important; clear: both!important; margin: 0 auto; padding: 0;"" valign=""top"" width=""600"">
+<div style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; max-width: 600px; display: block; margin: 0 auto; padding: 20px;"">
+<table style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; border-radius: 3px; background: #fff; margin: 0; padding: 0; border: 1px solid #e9e9e9;"" width=""100%"" cellspacing=""0"" cellpadding=""2"">
+<tbody>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; margin: 0; padding: 0;"">
+<td style=""text-align: center; box-sizing: border-box; vertical-align: middle; margin: 0; padding: 18px 30px 0px 30px;"" valign=""center"">
+<div style=""border-bottom: 1px solid #e5e5e5; padding-bottom: 5px; text-align: center;""><a style=""text-decoration: none; display: inline-block;"" href=""#"" target=""_blank""> <img style=""width: 25%;"" src=""{{base_url}}{{logo_name}}"" alt=""Placio"" /> </a></div>
+</td>
+</tr>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; margin: 0; padding: 0;"">
+<td style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; vertical-align: top; margin: 0; padding: 30px; padding-top: 5px;"" valign=""top"">
+<p>Hi {{tenant_name}}</p>
+<p style=""margin-left: 15px;"">Your bed has been successfully allotted in --</p>
+<table style=""margin-left: 15px;"" width=""100%"" cellspacing=""0"" cellpadding=""5"">
+<tbody>
+<tr>
+<td style=""width: 35%;"">Tenant User Id</td>
+<td>: {{tenant_user_id}}</td>
+</tr>
+<tr>
+<td>Building Name</td>
+<td>: {{building_name}}</td>
+</tr>
+<tr>
+<td>Floor No</td>
+<td>: {{floor_no}}</td>
+</tr>
+<tr>
+<td>Room No.</td>
+<td>: {{room_no}}</td>
+</tr>
+<tr>
+<td>Bed No.</td>
+<td>: {{bed_no}}</td>
+</tr>
+</tbody>
+</table>
+<p style=""margin-left: 15px;"">For any queries please contact your assigned manager-</p>
+<table style=""margin-left: 15px;"" width=""100%"" cellspacing=""0"" cellpadding=""5"">
+<tbody>
+<tr>
+<td style=""width: 35%;"">Manager Name</td>
+<td>: {{mgr_name}}</td>
+</tr>
+<tr>
+<td>Manager Mob No.</td>
+<td>: {{mgr_mob_no}}</td>
+</tr>
+<tr>
+<td>Community&nbsp;MGR Name</td>
+<td>: {{cluster_mgr_name}}</td>
+</tr>
+<tr>
+<td>Community&nbsp;MGR Mob No.</td>
+<td>: {{cluster_mgr_mob_no}}</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>Thanks &amp; Regards, <br /> {{site_name}}</p>
+</td>
+</tr>
+</tbody>
+</table>
+<div style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; width: 100%; clear: both; color: #999; margin: 0; padding-top: 20px; padding-bottom: 20px;"">
+<table style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0; padding: 0;"" width=""100%"">
+<tbody>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0; padding: 0;"">
+<td style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 12px; vertical-align: top; text-align: center; margin: 0; padding: 0 0 20px;"" align=""center"" valign=""top""><a style=""text-decoration: none; display: inline-block; margin-right: 5px;"" href=""{{facebook_url}}"" target=""_blank""> <img title=""facebook"" src=""{{base_url}}hms/img/social/email/facebook.png"" alt=""facebook"" width=""30"" /> </a> <a style=""text-decoration: none; display: inline-block; margin-right: 5px;"" href=""{{linkedin_url}}"" target=""_blank""> <img title=""linkedin"" src=""{{base_url}}hms/img/social/email/linkedin.png"" alt=""linkedin"" width=""30"" /> </a> <a style=""text-decoration: none; display: inline-block; margin-right: 5px;"" href=""{{instagram_url}}"" target=""_blank""> <img title=""instagram"" src=""{{base_url}}hms/img/social/email/instagram.png"" alt=""instagram"" width=""30"" /> </a> <a style=""text-decoration: none; display: inline-block; margin-right: 5px;"" href=""{{twitter_url}}"" target=""_blank""> <img title=""twitter"" src=""{{base_url}}hms/img/social/email/twitter.png"" alt=""twitter"" width=""30"" /> </a> <a style=""text-decoration: none; display: inline-block;"" href=""{{google_plus_url}}"" target=""_blank""> <img title=""google"" src=""{{base_url}}hms/img/social/email/google-plus.png"" alt=""google"" width=""30"" /> </a></td>
+</tr>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0; padding: 0;"">
+<td style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 12px; vertical-align: top; text-align: center; margin: 0; padding: 0 0 10px;"" align=""center"" valign=""top"">Email : <a style=""text-decoration: none; color: #777777; display: inline-block;"" href=""mailto:hello@placio.in"" target=""_blank"">hello@placio.in</a> Mob No. : <a style=""text-decoration: none; color: #777777;"" href=""tel:+917053109531"" target=""_blank"">+91 705.310.9531</a><br />
+<p style=""color: #777777; display: inline-block;"">PLACIO, Eco Towers, Plot no. A 14, 8th Floor, Sector 125, Noida, 201301 Uttar Pradesh</p>
+</td>
+</tr>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0; padding: 0;"">
+<td style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 12px; vertical-align: top; text-align: center; margin: 0; padding: 0 0 20px;"" align=""center"" valign=""top"">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</td>
+<td style=""font-family: 'Helvetica Neue','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; vertical-align: top; margin: 0; padding: 0;"" valign=""top"">&nbsp;</td>
+</tr>
+</tbody>
+</table>"
+"4","change-password-success","Your password has been changed","Placio","hello@placio.in","<table style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 15px; width: 100%; background: #f2f2f2; margin: 0; padding: 0;"">
+<tbody>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0; padding: 0;"">
+<td style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; vertical-align: top; display: block!important; max-width: 600px!important; clear: both!important; margin: 0 auto; padding: 0;"" valign=""top"" width=""600"">
+<div style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; max-width: 600px; display: block; margin: 0 auto; padding: 20px;"">
+<table style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; border-radius: 3px; background: #fff; margin: 0; padding: 0; border: 1px solid #e9e9e9;"" width=""100%"" cellspacing=""0"" cellpadding=""2"">
+<tbody>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; margin: 0; padding: 0;"">
+<td style=""text-align: center; box-sizing: border-box; vertical-align: middle; margin: 0; padding: 18px 30px 0px 30px;"" valign=""center"">
+<div style=""border-bottom: 1px solid #e5e5e5; padding-bottom: 5px; text-align: center;""><a style=""text-decoration: none; display: inline-block;"" href=""#"" target=""_blank""> <img style=""width: 25%;"" src=""{{base_url}}{{logo_name}}"" alt=""Placio"" /> </a></div>
+</td>
+</tr>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; margin: 0; padding: 0;"">
+<td style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; vertical-align: top; margin: 0; padding: 30px; padding-top: 5px;"" valign=""top"">
+<p>Hi {{name}}</p>
+<p style=""margin-left: 15px; line-height: 1.5;"">Greetings!</p>
+<p style=""margin-left: 15px; line-height: 1.5;"">You recently changed the&nbsp;<span class=""il"">password&nbsp;</span>associated with your account&nbsp;<br />{{user_id}}</p>
+<p style=""margin-left: 15px; line-height: 1.5;"">If you did not make this change and believe your Placio HMS account has been compromised, please <a href=""mailto:hello@placio.in"">hello@placio.in</a></p>
+<p>Thanks &amp; Regards, <br /> {{site_name}}</p>
+</td>
+</tr>
+</tbody>
+</table>
+<div style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; width: 100%; clear: both; color: #999; margin: 0; padding-top: 20px; padding-bottom: 20px;"">
+<table style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0; padding: 0;"" width=""100%"">
+<tbody>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0; padding: 0;"">
+<td style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 12px; vertical-align: top; text-align: center; margin: 0; padding: 0 0 20px;"" align=""center"" valign=""top""><a style=""text-decoration: none; display: inline-block; margin-right: 5px;"" href=""{{facebook_url}}"" target=""_blank""> <img title=""facebook"" src=""{{base_url}}hms/img/social/email/facebook.png"" alt=""facebook"" width=""30"" /> </a> <a style=""text-decoration: none; display: inline-block; margin-right: 5px;"" href=""{{linkedin_url}}"" target=""_blank""> <img title=""linkedin"" src=""{{base_url}}hms/img/social/email/linkedin.png"" alt=""linkedin"" width=""30"" /> </a> <a style=""text-decoration: none; display: inline-block; margin-right: 5px;"" href=""{{instagram_url}}"" target=""_blank""> <img title=""instagram"" src=""{{base_url}}hms/img/social/email/instagram.png"" alt=""instagram"" width=""30"" /> </a> <a style=""text-decoration: none; display: inline-block; margin-right: 5px;"" href=""{{twitter_url}}"" target=""_blank""> <img title=""twitter"" src=""{{base_url}}hms/img/social/email/twitter.png"" alt=""twitter"" width=""30"" /> </a> <a style=""text-decoration: none; display: inline-block;"" href=""{{google_plus_url}}"" target=""_blank""> <img title=""google"" src=""{{base_url}}hms/img/social/email/google-plus.png"" alt=""google"" width=""30"" /> </a></td>
+</tr>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0; padding: 0;"">
+<td style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 12px; vertical-align: top; text-align: center; margin: 0; padding: 0 0 10px;"" align=""center"" valign=""top"">Email : <a style=""text-decoration: none; color: #777777; display: inline-block;"" href=""mailto:hello@placio.in"" target=""_blank"">hello@placio.in</a> Mob No. : <a style=""text-decoration: none; color: #777777;"" href=""tel:+917053109531"" target=""_blank"">+91 705.310.9531</a><br />
+<p style=""color: #777777; display: inline-block;"">PLACIO, Eco Towers, Plot no. A 14, 8th Floor, Sector 125, Noida, 201301 Uttar Pradesh</p>
+</td>
+</tr>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0; padding: 0;"">
+<td style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 12px; vertical-align: top; text-align: center; margin: 0; padding: 0 0 20px;"" align=""center"" valign=""top"">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</td>
+<td style=""font-family: 'Helvetica Neue','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; vertical-align: top; margin: 0; padding: 0;"" valign=""top"">&nbsp;</td>
+</tr>
+</tbody>
+</table>"
+"5","forgot-password-mail","Your password change request","Placio","hello@placio.in","<table style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 15px; width: 100%; background: #f2f2f2; margin: 0; padding: 0;"">
+<tbody>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0; padding: 0;"">
+<td style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; vertical-align: top; display: block!important; max-width: 600px!important; clear: both!important; margin: 0 auto; padding: 0;"" valign=""top"" width=""600"">
+<div style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; max-width: 600px; display: block; margin: 0 auto; padding: 20px;"">
+<table style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; border-radius: 3px; background: #fff; margin: 0; padding: 0; border: 1px solid #e9e9e9;"" width=""100%"" cellspacing=""0"" cellpadding=""2"">
+<tbody>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; margin: 0; padding: 0;"">
+<td style=""text-align: center; box-sizing: border-box; vertical-align: middle; margin: 0; padding: 18px 30px 0px 30px;"" valign=""center"">
+<div style=""border-bottom: 1px solid #e5e5e5; padding-bottom: 5px; text-align: center;""><a style=""text-decoration: none; display: inline-block;"" href=""#"" target=""_blank""> <img style=""width: 25%;"" src=""{{base_url}}{{logo_name}}"" alt=""Placio"" /> </a></div>
+</td>
+</tr>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; margin: 0; padding: 0;"">
+<td style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; vertical-align: top; margin: 0; padding: 30px; padding-top: 5px;"" valign=""top"">
+<p>Hi {{name}}</p>
+<p style=""margin-left: 15px; line-height: 1.5;"">We understand you'd like to change your password. Just click on the link below and follow the steps.</p>
+<p style=""margin-left: 15px;""><a href=""{{reset_link}}"">Click here to reset your password.</a></p>
+<p style=""margin-left: 15px; line-height: 1.5;"">This link will expire after you change your password. And don't forget that your password is case sensitive.</p>
+<p style=""margin-left: 15px;"">If you did not ask for a password change, just ignore this email.</p>
+<p>&nbsp;</p>
+<p>Thanks &amp; Regards, <br /> {{site_name}}</p>
+</td>
+</tr>
+</tbody>
+</table>
+<div style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; width: 100%; clear: both; color: #999; margin: 0; padding-top: 20px; padding-bottom: 20px;"">
+<table style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0; padding: 0;"" width=""100%"">
+<tbody>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0; padding: 0;"">
+<td style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 12px; vertical-align: top; text-align: center; margin: 0; padding: 0 0 20px;"" align=""center"" valign=""top""><a style=""text-decoration: none; display: inline-block; margin-right: 5px;"" href=""{{facebook_url}}"" target=""_blank""> <img title=""facebook"" src=""{{base_url}}hms/img/social/email/facebook.png"" alt=""facebook"" width=""30"" /> </a> <a style=""text-decoration: none; display: inline-block; margin-right: 5px;"" href=""{{linkedin_url}}"" target=""_blank""> <img title=""linkedin"" src=""{{base_url}}hms/img/social/email/linkedin.png"" alt=""linkedin"" width=""30"" /> </a> <a style=""text-decoration: none; display: inline-block; margin-right: 5px;"" href=""{{instagram_url}}"" target=""_blank""> <img title=""instagram"" src=""{{base_url}}hms/img/social/email/instagram.png"" alt=""instagram"" width=""30"" /> </a> <a style=""text-decoration: none; display: inline-block; margin-right: 5px;"" href=""{{twitter_url}}"" target=""_blank""> <img title=""twitter"" src=""{{base_url}}hms/img/social/email/twitter.png"" alt=""twitter"" width=""30"" /> </a> <a style=""text-decoration: none; display: inline-block;"" href=""{{google_plus_url}}"" target=""_blank""> <img title=""google"" src=""{{base_url}}hms/img/social/email/google-plus.png"" alt=""google"" width=""30"" /> </a></td>
+</tr>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0; padding: 0;"">
+<td style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 12px; vertical-align: top; text-align: center; margin: 0; padding: 0 0 10px;"" align=""center"" valign=""top"">Email : <a style=""text-decoration: none; color: #777777; display: inline-block;"" href=""mailto:hello@placio.in"" target=""_blank"">hello@placio.in</a> Mob No. : <a style=""text-decoration: none; color: #777777;"" href=""tel:+917053109531"" target=""_blank"">+91 705.310.9531</a><br />
+<p style=""color: #777777; display: inline-block;"">PLACIO, Eco Towers, Plot no. A 14, 8th Floor, Sector 125, Noida, 201301 Uttar Pradesh</p>
+</td>
+</tr>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0; padding: 0;"">
+<td style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 12px; vertical-align: top; text-align: center; margin: 0; padding: 0 0 20px;"" align=""center"" valign=""top"">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</td>
+<td style=""font-family: 'Helvetica Neue','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; vertical-align: top; margin: 0; padding: 0;"" valign=""top"">&nbsp;</td>
+</tr>
+</tbody>
+</table>"
+"6","collect-tenant-fee","PLACIO- PAYMENT RECIEPT","Placio","hello@placio.in","<table style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 15px; width: 100%; background: #f2f2f2; margin: 0; padding: 0;"">
+<tbody>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0; padding: 0;"">
+<td style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; vertical-align: top; display: block!important; max-width: 600px!important; clear: both!important; margin: 0 auto; padding: 0;"" valign=""top"" width=""600"">
+<div style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; max-width: 600px; display: block; margin: 0 auto; padding: 20px;"">
+<table style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; border-radius: 3px; background: #fff; margin: 0; padding: 0; border: 1px solid #e9e9e9;"" width=""100%"" cellspacing=""0"" cellpadding=""2"">
+<tbody>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; margin: 0; padding: 0;"">
+<td style=""text-align: center; box-sizing: border-box; vertical-align: middle; margin: 0; padding: 18px 30px 0px 30px;"" valign=""center"">
+<div style=""border-bottom: 1px solid #e5e5e5; padding-bottom: 5px; text-align: center;""><a style=""text-decoration: none; display: inline-block;"" href=""#"" target=""_blank""> <img style=""width: 25%;"" src=""{{base_url}}{{logo_name}}"" alt=""Placio"" /> </a></div>
+</td>
+</tr>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; margin: 0; padding: 0;"">
+<td style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; vertical-align: top; margin: 0; padding: 30px; padding-top: 5px;"" valign=""top"">
+<p>Dear {{tenant_name}}</p>
+<p>Thank you! Your Payment has been successfully processed.</p>
+<table border=""1"" width=""100%"" cellspacing=""0"" cellpadding=""5"">
+<tbody>
+<tr>
+<td style=""width: 35%; padding: 10px;"">Tenant Id</td>
+<td>&nbsp;{{tenant_id}}</td>
+</tr>
+<tr>
+<td style=""padding: 10px;"">Reciept Id</td>
+<td>&nbsp;{{reciept_id}}</td>
+</tr>
+<tr>
+<td style=""padding: 10px;"">Property Name</td>
+<td>&nbsp;{{property_name}}</td>
+</tr>
+</tbody>
+</table>
+<br />
+<p style=""background: #7b53c1; color: #fff; padding: 10px; width: 96%;"">Payment Summary <span style=""float: right;"">Amount</span></p>
+<table border=""1"" width=""100%"" cellspacing=""0"" cellpadding=""5"">
+<tbody>
+<tr>
+<td style=""width: 35%; padding: 10px;"">Payment Mode</td>
+<td style=""text-align: right; padding-right: 10px;"">&nbsp;{{payment_mode}}</td>
+</tr>
+<tr>
+<td style=""width: 35%; padding: 10px;"">Reference No.</td>
+<td style=""text-align: right; padding-right: 10px;"">&nbsp;{{reference}}</td>
+</tr>
+<tr>
+<td style=""width: 35%; padding: 10px;"">Total Amount Due</td>
+<td style=""text-align: right; padding-right: 10px;"">&nbsp;Rs {{total_fee}}</td>
+</tr>
+<tr>
+<td style=""width: 35%; padding: 10px;"">Amount Recieved</td>
+<td style=""text-align: right; padding-right: 10px;"">&nbsp;Rs {{recieved_amt}}</td>
+</tr>
+<tr>
+<td style=""width: 35%; padding: 10px;""><strong>Balance Due&nbsp;</strong></td>
+<td style=""text-align: right; padding-right: 10px;"">&nbsp;<strong>Rs {{due_fee}}</strong></td>
+</tr>
+</tbody>
+</table>
+<p><br />Thanks &amp; Regards, <br /> {{site_name}}</p>
+</td>
+</tr>
+</tbody>
+</table>
+<div style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; width: 100%; clear: both; color: #999; margin: 0; padding-top: 20px; padding-bottom: 20px;"">
+<table style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0; padding: 0;"" width=""100%"">
+<tbody>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0; padding: 0;"">
+<td style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 12px; vertical-align: top; text-align: center; margin: 0; padding: 0 0 20px;"" align=""center"" valign=""top""><a style=""text-decoration: none; display: inline-block; margin-right: 5px;"" href=""{{facebook_url}}"" target=""_blank""> <img title=""facebook"" src=""{{base_url}}hms/img/social/email/facebook.png"" alt=""facebook"" width=""30"" /> </a> <a style=""text-decoration: none; display: inline-block; margin-right: 5px;"" href=""{{linkedin_url}}"" target=""_blank""> <img title=""linkedin"" src=""{{base_url}}hms/img/social/email/linkedin.png"" alt=""linkedin"" width=""30"" /> </a> <a style=""text-decoration: none; display: inline-block; margin-right: 5px;"" href=""{{instagram_url}}"" target=""_blank""> <img title=""instagram"" src=""{{base_url}}hms/img/social/email/instagram.png"" alt=""instagram"" width=""30"" /> </a> <a style=""text-decoration: none; display: inline-block; margin-right: 5px;"" href=""{{twitter_url}}"" target=""_blank""> <img title=""twitter"" src=""{{base_url}}hms/img/social/email/twitter.png"" alt=""twitter"" width=""30"" /> </a> <a style=""text-decoration: none; display: inline-block;"" href=""{{google_plus_url}}"" target=""_blank""> <img title=""google"" src=""{{base_url}}hms/img/social/email/google-plus.png"" alt=""google"" width=""30"" /> </a></td>
+</tr>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0; padding: 0;"">
+<td style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 12px; vertical-align: top; text-align: center; margin: 0; padding: 0 0 10px;"" align=""center"" valign=""top"">Email : <a style=""text-decoration: none; color: #777777; display: inline-block;"" href=""mailto:hello@placio.in"" target=""_blank"">hello@placio.in</a> Mob No. : <a style=""text-decoration: none; color: #777777;"" href=""tel:+917053109531"" target=""_blank"">+91 705.310.9531</a><br />
+<p style=""color: #777777; display: inline-block;"">PLACIO,8th Floor Eco Towers, Plot no. A 14, , Sector 125, Noida, 201301 Uttar Pradesh</p>
+</td>
+</tr>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0; padding: 0;"">
+<td style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 12px; vertical-align: top; text-align: center; margin: 0; padding: 0 0 20px;"" align=""center"" valign=""top"">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</td>
+<td style=""font-family: 'Helvetica Neue','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; vertical-align: top; margin: 0; padding: 0;"" valign=""top"">&nbsp;</td>
+</tr>
+</tbody>
+</table>"
+"7","new-complaint-add","{{tenant_name}} Complaint {{category}} related","Placio","hello@placio.in","<table style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 15px; width: 100%; background: #f2f2f2; margin: 0; padding: 0;"">
+<tbody>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0; padding: 0;"">
+<td style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; vertical-align: top; display: block!important; max-width: 600px!important; clear: both!important; margin: 0 auto; padding: 0;"" valign=""top"" width=""600"">
+<div style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; max-width: 600px; display: block; margin: 0 auto; padding: 20px;"">
+<table style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; border-radius: 3px; background: #fff; margin: 0; padding: 0; border: 1px solid #e9e9e9;"" width=""100%"" cellspacing=""0"" cellpadding=""2"">
+<tbody>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; margin: 0; padding: 0;"">
+<td style=""text-align: center; box-sizing: border-box; vertical-align: middle; margin: 0; padding: 18px 30px 0px 30px;"" valign=""center"">
+<div style=""border-bottom: 1px solid #e5e5e5; padding-bottom: 5px; text-align: center;""><a style=""text-decoration: none; display: inline-block;"" href=""#"" target=""_blank""> <img style=""width: 25%;"" src=""{{base_url}}{{logo_name}}"" alt=""Placio"" /> </a></div>
+</td>
+</tr>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; margin: 0; padding: 0;"">
+<td style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; vertical-align: top; margin: 0; padding: 30px; padding-top: 5px;"" valign=""top"">
+<p>Dear {{tenant_name}}</p>
+<p style=""margin-left: 15px;"">Thank you for contacting us. Our Support team has taken note of your raised issue and shall respond to your request at the earliest.</p>
+<table style=""margin-left: 15px;"" width=""100%"" cellspacing=""0"" cellpadding=""5"">
+<tbody>
+<tr>
+<td style=""width: 35%;"">Complain Id</td>
+<td>: #{{complain_id}}</td>
+</tr>
+<tr>
+<td>Building Name</td>
+<td>: {{building_name}}</td>
+</tr>
+<tr>
+<td>Floor No</td>
+<td>: {{floor_no}}</td>
+</tr>
+<tr>
+<td>Room No.</td>
+<td>: {{room_no}}</td>
+</tr>
+<tr>
+<td>Bed No.</td>
+<td>: {{bed_no}}</td>
+</tr>
+<tr>
+<td style=""width: 35%;"">Tenant User Id</td>
+<td>: {{tenant_user_id}}</td>
+</tr>
+<tr>
+<td style=""width: 35%;"">Tenant Name</td>
+<td>: {{tenant_name}}</td>
+</tr>
+<tr>
+<td style=""width: 35%;"">Nature of Complain</td>
+<td>: {{category}}</td>
+</tr>
+<tr>
+<td style=""width: 35%;"">Status</td>
+<td>: {{status}}</td>
+</tr>
+<tr>
+<td style=""width: 35%;"">Message</td>
+<td>: {{message}}</td>
+</tr>
+</tbody>
+</table>
+<p style=""margin-left: 15px;"">For any queries please contact your assigned manager-</p>
+<table style=""margin-left: 15px;"" width=""100%"" cellspacing=""0"" cellpadding=""5"">
+<tbody>
+<tr>
+<td style=""width: 35%;"">Manager Name</td>
+<td>: {{mgr_name}}</td>
+</tr>
+<tr>
+<td>Manager Mob No.</td>
+<td>: {{mgr_mob_no}}</td>
+</tr>
+<tr>
+<td>Community&nbsp;MGR Name</td>
+<td>: {{cluster_mgr_name}}</td>
+</tr>
+<tr>
+<td>Community&nbsp;MGR Mob No.</td>
+<td>: {{cluster_mgr_mob_no}}</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>Thanks &amp; Regards, <br /> {{site_name}}</p>
+</td>
+</tr>
+</tbody>
+</table>
+<div style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; width: 100%; clear: both; color: #999; margin: 0; padding-top: 20px; padding-bottom: 20px;"">
+<table style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0; padding: 0;"" width=""100%"">
+<tbody>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0; padding: 0;"">
+<td style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 12px; vertical-align: top; text-align: center; margin: 0; padding: 0 0 20px;"" align=""center"" valign=""top""><a style=""text-decoration: none; display: inline-block; margin-right: 5px;"" href=""{{facebook_url}}"" target=""_blank""> <img title=""facebook"" src=""{{base_url}}hms/img/social/email/facebook.png"" alt=""facebook"" width=""30"" /> </a> <a style=""text-decoration: none; display: inline-block; margin-right: 5px;"" href=""{{linkedin_url}}"" target=""_blank""> <img title=""linkedin"" src=""{{base_url}}hms/img/social/email/linkedin.png"" alt=""linkedin"" width=""30"" /> </a> <a style=""text-decoration: none; display: inline-block; margin-right: 5px;"" href=""{{instagram_url}}"" target=""_blank""> <img title=""instagram"" src=""{{base_url}}hms/img/social/email/instagram.png"" alt=""instagram"" width=""30"" /> </a> <a style=""text-decoration: none; display: inline-block; margin-right: 5px;"" href=""{{twitter_url}}"" target=""_blank""> <img title=""twitter"" src=""{{base_url}}hms/img/social/email/twitter.png"" alt=""twitter"" width=""30"" /> </a> <a style=""text-decoration: none; display: inline-block;"" href=""{{google_plus_url}}"" target=""_blank""> <img title=""google"" src=""{{base_url}}hms/img/social/email/google-plus.png"" alt=""google"" width=""30"" /> </a></td>
+</tr>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0; padding: 0;"">
+<td style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 12px; vertical-align: top; text-align: center; margin: 0; padding: 0 0 10px;"" align=""center"" valign=""top"">Email : <a style=""text-decoration: none; color: #777777; display: inline-block;"" href=""mailto:hello@placio.in"" target=""_blank"">hello@placio.in</a> Mob No. : <a style=""text-decoration: none; color: #777777;"" href=""tel:+917053109531"" target=""_blank"">+91 705.310.9531</a><br />
+<p style=""color: #777777; display: inline-block;"">PLACIO, Eco Towers, Plot no. A 14, 8th Floor, Sector 125, Noida, 201301 Uttar Pradesh</p>
+</td>
+</tr>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0; padding: 0;"">
+<td style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 12px; vertical-align: top; text-align: center; margin: 0; padding: 0 0 20px;"" align=""center"" valign=""top"">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</td>
+<td style=""font-family: 'Helvetica Neue','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; vertical-align: top; margin: 0; padding: 0;"" valign=""top"">&nbsp;</td>
+</tr>
+</tbody>
+</table>"
+"8","owner-e-kyc-for-admin","{{create_name}} created new  owner E-KYC for property {{property_name}} - {{city}}","Placio","hello@placio.in","<table style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 15px; width: 100%; background: #f2f2f2; margin: 0; padding: 0;"">
+<tbody>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0; padding: 0;"">
+<td style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; vertical-align: top; display: block!important; max-width: 600px!important; clear: both!important; margin: 0 auto; padding: 0;"" valign=""top"" width=""600"">
+<div style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; max-width: 600px; display: block; margin: 0 auto; padding: 20px;"">
+<table style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; border-radius: 3px; background: #fff; margin: 0; padding: 0; border: 1px solid #e9e9e9;"" width=""100%"" cellspacing=""0"" cellpadding=""2"">
+<tbody>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; margin: 0; padding: 0;"">
+<td style=""text-align: center; box-sizing: border-box; vertical-align: middle; margin: 0; padding: 18px 30px 0px 30px;"" valign=""center"">
+<div style=""border-bottom: 1px solid #e5e5e5; padding-bottom: 5px; text-align: center;""><a style=""text-decoration: none; display: inline-block;"" href=""#"" target=""_blank""> <img style=""width: 25%;"" src=""{{base_url}}{{logo_name}}"" alt=""Placio"" /> </a></div>
+</td>
+</tr>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; margin: 0; padding: 0;"">
+<td style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; vertical-align: top; margin: 0; padding: 30px; padding-top: 5px;"" valign=""top"">
+<p>Hi Sir/Madam</p>
+<p style=""margin-left: 15px; line-height: 1.5;"">Please find new owner E-KYC for your record and consideration.<br />Please <a title=""Login Url"" href=""{{login_url}}"" target=""_blank"">login </a>your EDGE dashboard for further detail.</p>
+<p>Thanks &amp; Regards, <br /> {{site_name}}</p>
+</td>
+</tr>
+</tbody>
+</table>
+<div style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; width: 100%; clear: both; color: #999; margin: 0; padding-top: 20px; padding-bottom: 20px;"">
+<table style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0; padding: 0;"" width=""100%"">
+<tbody>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0; padding: 0;"">
+<td style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 12px; vertical-align: top; text-align: center; margin: 0; padding: 0 0 20px;"" align=""center"" valign=""top""><a style=""text-decoration: none; display: inline-block; margin-right: 5px;"" href=""{{facebook_url}}"" target=""_blank""> <img title=""facebook"" src=""{{base_url}}hms/img/social/email/facebook.png"" alt=""facebook"" width=""30"" /> </a> <a style=""text-decoration: none; display: inline-block; margin-right: 5px;"" href=""{{linkedin_url}}"" target=""_blank""> <img title=""linkedin"" src=""{{base_url}}hms/img/social/email/linkedin.png"" alt=""linkedin"" width=""30"" /> </a> <a style=""text-decoration: none; display: inline-block; margin-right: 5px;"" href=""{{instagram_url}}"" target=""_blank""> <img title=""instagram"" src=""{{base_url}}hms/img/social/email/instagram.png"" alt=""instagram"" width=""30"" /> </a> <a style=""text-decoration: none; display: inline-block; margin-right: 5px;"" href=""{{twitter_url}}"" target=""_blank""> <img title=""twitter"" src=""{{base_url}}hms/img/social/email/twitter.png"" alt=""twitter"" width=""30"" /> </a> <a style=""text-decoration: none; display: inline-block;"" href=""{{google_plus_url}}"" target=""_blank""> <img title=""google"" src=""{{base_url}}hms/img/social/email/google-plus.png"" alt=""google"" width=""30"" /> </a></td>
+</tr>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0; padding: 0;"">
+<td style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 12px; vertical-align: top; text-align: center; margin: 0; padding: 0 0 10px;"" align=""center"" valign=""top"">Email : <a style=""text-decoration: none; color: #777777; display: inline-block;"" href=""mailto:hello@placio.in"" target=""_blank"">hello@placio.in</a> Mob No. : <a style=""text-decoration: none; color: #777777;"" href=""tel:+917053109531"" target=""_blank"">+91 705.310.9531</a><br />
+<p style=""color: #777777; display: inline-block;"">PLACIO, Eco Towers, Plot no. A 14, 8th Floor, Sector 125, Noida, 201301 Uttar Pradesh</p>
+</td>
+</tr>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0; padding: 0;"">
+<td style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 12px; vertical-align: top; text-align: center; margin: 0; padding: 0 0 20px;"" align=""center"" valign=""top"">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</td>
+<td style=""font-family: 'Helvetica Neue','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; vertical-align: top; margin: 0; padding: 0;"" valign=""top"">&nbsp;</td>
+</tr>
+</tbody>
+</table>"
+"9","post-you-requirement","Post Your Requirement","Placio","hello@placio.in","<table style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 15px; width: 100%; background: #f2f2f2; margin: 0; padding: 0;"">
+<tbody>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0; padding: 0;"">
+<td style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; vertical-align: top; display: block!important; max-width: 600px!important; clear: both!important; margin: 0 auto; padding: 0;"" valign=""top"" width=""600"">
+<div style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; max-width: 600px; display: block; margin: 0 auto; padding: 20px;"">
+<table style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; border-radius: 3px; background: #fff; margin: 0; padding: 0; border: 1px solid #e9e9e9;"" width=""100%"" cellspacing=""0"" cellpadding=""2"">
+<tbody>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; margin: 0; padding: 0;"">
+<td style=""text-align: center; box-sizing: border-box; vertical-align: middle; margin: 0; padding: 18px 30px 0px 30px;"" valign=""center"">
+<div style=""border-bottom: 1px solid #e5e5e5; padding-bottom: 5px; text-align: center;""><a style=""text-decoration: none; display: inline-block;"" href=""#"" target=""_blank""> <img style=""width: 25%;"" src=""{{base_url}}{{logo_name}}"" alt=""Placio"" /> </a></div>
+</td>
+</tr>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; margin: 0; padding: 0;"">
+<td style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; vertical-align: top; margin: 0; padding: 30px; padding-top: 5px;"" valign=""top"">
+<p>Dear Sir/Madam</p>
+<table border=""1"" width=""100%"" cellspacing=""0"" cellpadding=""5"">
+<tbody>
+<tr>
+<td style=""width: 35%; padding: 10px;""><strong>Name</strong></td>
+<td>&nbsp;{{name}}</td>
+</tr>
+<tr>
+<td style=""padding: 10px;""><strong>Email</strong></td>
+<td>&nbsp;{{email}}</td>
+</tr>
+<tr>
+<td style=""padding: 10px;""><strong>Mobile No</strong></td>
+<td>&nbsp;{{mobile_no}}</td>
+</tr>
+<tr>
+<td style=""padding: 10px;""><strong>City</strong></td>
+<td>&nbsp;{{city}}</td>
+</tr>
+<tr>
+<td style=""padding: 10px;""><strong>Area</strong></td>
+<td>&nbsp;{{area}}</td>
+</tr>
+<tr>
+<td style=""padding: 10px;""><strong>Budget</strong></td>
+<td>&nbsp;{{budget}}</td>
+</tr>
+<tr>
+<td style=""padding: 10px;""><strong>Type of Room</strong></td>
+<td>&nbsp;{{type_of_room}}</td>
+</tr>
+<tr>
+<td style=""padding: 10px;""><strong>Message</strong></td>
+<td>&nbsp;{{message}}</td>
+</tr>
+</tbody>
+</table>
+<p style=""margin-left: 15px;"">&nbsp;</p>
+<p>Thanks &amp; Regards, <br /> {{site_name}}</p>
+</td>
+</tr>
+</tbody>
+</table>
+<div style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; width: 100%; clear: both; color: #999; margin: 0; padding-top: 20px; padding-bottom: 20px;"">
+<table style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0; padding: 0;"" width=""100%"">
+<tbody>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0; padding: 0;"">
+<td style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 12px; vertical-align: top; text-align: center; margin: 0; padding: 0 0 20px;"" align=""center"" valign=""top""><a style=""text-decoration: none; display: inline-block; margin-right: 5px;"" href=""{{facebook_url}}"" target=""_blank""> <img title=""facebook"" src=""{{base_url}}hms/img/social/email/facebook.png"" alt=""facebook"" width=""30"" /> </a> <a style=""text-decoration: none; display: inline-block; margin-right: 5px;"" href=""{{linkedin_url}}"" target=""_blank""> <img title=""linkedin"" src=""{{base_url}}hms/img/social/email/linkedin.png"" alt=""linkedin"" width=""30"" /> </a> <a style=""text-decoration: none; display: inline-block; margin-right: 5px;"" href=""{{instagram_url}}"" target=""_blank""> <img title=""instagram"" src=""{{base_url}}hms/img/social/email/instagram.png"" alt=""instagram"" width=""30"" /> </a> <a style=""text-decoration: none; display: inline-block; margin-right: 5px;"" href=""{{twitter_url}}"" target=""_blank""> <img title=""twitter"" src=""{{base_url}}hms/img/social/email/twitter.png"" alt=""twitter"" width=""30"" /> </a> <a style=""text-decoration: none; display: inline-block;"" href=""{{google_plus_url}}"" target=""_blank""> <img title=""google"" src=""{{base_url}}hms/img/social/email/google-plus.png"" alt=""google"" width=""30"" /> </a></td>
+</tr>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0; padding: 0;"">
+<td style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 12px; vertical-align: top; text-align: center; margin: 0; padding: 0 0 10px;"" align=""center"" valign=""top"">Email : <a style=""text-decoration: none; color: #777777; display: inline-block;"" href=""mailto:hello@placio.in"" target=""_blank"">hello@placio.in</a> Mob No. : <a style=""text-decoration: none; color: #777777;"" href=""tel:+917053109531"" target=""_blank"">+91 705.310.9531</a><br />
+<p style=""color: #777777; display: inline-block;"">PLACIO,8th Floor Eco Towers, Plot no. A 14, , Sector 125, Noida, 201301 Uttar Pradesh</p>
+</td>
+</tr>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0; padding: 0;"">
+<td style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 12px; vertical-align: top; text-align: center; margin: 0; padding: 0 0 20px;"" align=""center"" valign=""top"">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</td>
+<td style=""font-family: 'Helvetica Neue','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; vertical-align: top; margin: 0; padding: 0;"" valign=""top"">&nbsp;</td>
+</tr>
+</tbody>
+</table>"
+"10","contact-us-admin","New Website Lead","Placio","hello@placio.in","<table style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 15px; width: 100%; background: #f2f2f2; margin: 0; padding: 0;"">
+<tbody>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0; padding: 0;"">
+<td style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; vertical-align: top; display: block!important; max-width: 600px!important; clear: both!important; margin: 0 auto; padding: 0;"" valign=""top"" width=""600"">
+<div style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; max-width: 600px; display: block; margin: 0 auto; padding: 20px;"">
+<table style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; border-radius: 3px; background: #fff; margin: 0; padding: 0; border: 1px solid #e9e9e9;"" width=""100%"" cellspacing=""0"" cellpadding=""2"">
+<tbody>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; margin: 0; padding: 0;"">
+<td style=""text-align: center; box-sizing: border-box; vertical-align: middle; margin: 0; padding: 18px 30px 0px 30px;"" valign=""center"">
+<div style=""border-bottom: 1px solid #e5e5e5; padding-bottom: 5px; text-align: center;""><a style=""text-decoration: none; display: inline-block;"" href=""#"" target=""_blank""> <img style=""width: 25%;"" src=""{{base_url}}{{logo_name}}"" alt=""Placio"" /> </a></div>
+</td>
+</tr>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; margin: 0; padding: 0;"">
+<td style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; vertical-align: top; margin: 0; padding: 30px; padding-top: 5px;"" valign=""top"">
+<p>Dear Sir/Madam</p>
+<table border=""1"" width=""100%"" cellspacing=""0"" cellpadding=""5"">
+<tbody>
+<tr>
+<td style=""width: 35%; padding: 10px;""><strong>Name</strong></td>
+<td>&nbsp;{{name}}</td>
+</tr>
+<tr>
+<td style=""padding: 10px;""><strong>Email</strong></td>
+<td>&nbsp;{{email}}</td>
+</tr>
+<tr>
+<td style=""padding: 10px;""><strong>Mobile No</strong></td>
+<td>&nbsp;{{mobile_no}}</td>
+</tr>
+</tbody>
+</table>
+<p><br />Thanks &amp; Regards, <br /> {{site_name}}</p>
+</td>
+</tr>
+</tbody>
+</table>
+<div style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; width: 100%; clear: both; color: #999; margin: 0; padding-top: 20px; padding-bottom: 20px;"">
+<table style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0; padding: 0;"" width=""100%"">
+<tbody>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0; padding: 0;"">
+<td style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 12px; vertical-align: top; text-align: center; margin: 0; padding: 0 0 20px;"" align=""center"" valign=""top""><a style=""text-decoration: none; display: inline-block; margin-right: 5px;"" href=""{{facebook_url}}"" target=""_blank""> <img title=""facebook"" src=""{{base_url}}hms/img/social/email/facebook.png"" alt=""facebook"" width=""30"" /> </a> <a style=""text-decoration: none; display: inline-block; margin-right: 5px;"" href=""{{linkedin_url}}"" target=""_blank""> <img title=""linkedin"" src=""{{base_url}}hms/img/social/email/linkedin.png"" alt=""linkedin"" width=""30"" /> </a> <a style=""text-decoration: none; display: inline-block; margin-right: 5px;"" href=""{{instagram_url}}"" target=""_blank""> <img title=""instagram"" src=""{{base_url}}hms/img/social/email/instagram.png"" alt=""instagram"" width=""30"" /> </a> <a style=""text-decoration: none; display: inline-block; margin-right: 5px;"" href=""{{twitter_url}}"" target=""_blank""> <img title=""twitter"" src=""{{base_url}}hms/img/social/email/twitter.png"" alt=""twitter"" width=""30"" /> </a> <a style=""text-decoration: none; display: inline-block;"" href=""{{google_plus_url}}"" target=""_blank""> <img title=""google"" src=""{{base_url}}hms/img/social/email/google-plus.png"" alt=""google"" width=""30"" /> </a></td>
+</tr>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0; padding: 0;"">
+<td style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 12px; vertical-align: top; text-align: center; margin: 0; padding: 0 0 10px;"" align=""center"" valign=""top"">Email : <a style=""text-decoration: none; color: #777777; display: inline-block;"" href=""mailto:hello@placio.in"" target=""_blank"">hello@placio.in</a> Mob No. : <a style=""text-decoration: none; color: #777777;"" href=""tel:+917053109531"" target=""_blank"">+91 705.310.9531</a><br />
+<p style=""color: #777777; display: inline-block;"">PLACIO,8th Floor Eco Towers, Plot no. A 14, , Sector 125, Noida, 201301 Uttar Pradesh</p>
+</td>
+</tr>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0; padding: 0;"">
+<td style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 12px; vertical-align: top; text-align: center; margin: 0; padding: 0 0 20px;"" align=""center"" valign=""top"">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</td>
+<td style=""font-family: 'Helvetica Neue','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; vertical-align: top; margin: 0; padding: 0;"" valign=""top"">&nbsp;</td>
+</tr>
+</tbody>
+</table>"
+"11","contact-us-form-user","PLACIO Contact Request Successfull","Placio","hello@placio.in","<table style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 15px; width: 100%; background: #f2f2f2; margin: 0; padding: 0;"">
+<tbody>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0; padding: 0;"">
+<td style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; vertical-align: top; display: block!important; max-width: 600px!important; clear: both!important; margin: 0 auto; padding: 0;"" valign=""top"" width=""600"">
+<div style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; max-width: 600px; display: block; margin: 0 auto; padding: 20px;"">
+<table style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; border-radius: 3px; background: #fff; margin: 0; padding: 0; border: 1px solid #e9e9e9;"" width=""100%"" cellspacing=""0"" cellpadding=""2"">
+<tbody>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; margin: 0; padding: 0;"">
+<td style=""text-align: center; box-sizing: border-box; vertical-align: middle; margin: 0; padding: 18px 30px 0px 30px;"" valign=""center"">
+<div style=""border-bottom: 1px solid #e5e5e5; padding-bottom: 5px; text-align: center;""><a style=""text-decoration: none; display: inline-block;"" href=""#"" target=""_blank""> <img style=""width: 25%;"" src=""{{logo_name}}"" alt=""Placio"" /> </a></div>
+</td>
+</tr>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; margin: 0; padding: 0;"">
+<td style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; vertical-align: top; margin: 0; padding: 30px; padding-top: 5px;"" valign=""top"">
+<p>Dear {{name}}<br /><br />Thanks for &nbsp;contacting PLACIO, someone from Placio shall get back to you shortly. You may also call us &nbsp;at +91 7053109531 or write to the undermentioned email address. <a title=""Email Placio"" href=""mailto:hello@placio.in"" target=""_blank"">hello@placio.in</a></p>
+<p style=""margin-left: 15px;"">&nbsp;</p>
+<p>Thanks &amp; Regards, <br /> {{site_name}}</p>
+</td>
+</tr>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; margin: 0; padding: 0;"">
+<td style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; vertical-align: top; margin: 0; padding: 30px; padding-top: 5px;"" valign=""top"">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<div style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; width: 100%; clear: both; color: #999; margin: 0; padding-top: 20px; padding-bottom: 20px;"">
+<table style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0; padding: 0;"" width=""100%"">
+<tbody>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0; padding: 0;"">
+<td style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 12px; vertical-align: top; text-align: center; margin: 0; padding: 0 0 20px;"" align=""center"" valign=""top""><a style=""text-decoration: none; display: inline-block; margin-right: 5px;"" href=""{{facebook_url}}"" target=""_blank""> <img title=""facebook"" src=""{{base_url}}hms/img/social/email/facebook.png"" alt=""facebook"" width=""30"" /> </a> <a style=""text-decoration: none; display: inline-block; margin-right: 5px;"" href=""{{linkedin_url}}"" target=""_blank""> <img title=""linkedin"" src=""{{base_url}}hms/img/social/email/linkedin.png"" alt=""linkedin"" width=""30"" /> </a> <a style=""text-decoration: none; display: inline-block; margin-right: 5px;"" href=""{{instagram_url}}"" target=""_blank""> <img title=""instagram"" src=""{{base_url}}hms/img/social/email/instagram.png"" alt=""instagram"" width=""30"" /> </a> <a style=""text-decoration: none; display: inline-block; margin-right: 5px;"" href=""{{twitter_url}}"" target=""_blank""> <img title=""twitter"" src=""{{base_url}}hms/img/social/email/twitter.png"" alt=""twitter"" width=""30"" /> </a> <a style=""text-decoration: none; display: inline-block;"" href=""{{google_plus_url}}"" target=""_blank""> <img title=""google"" src=""{{base_url}}hms/img/social/email/google-plus.png"" alt=""google"" width=""30"" /> </a></td>
+</tr>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0; padding: 0;"">
+<td style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 12px; vertical-align: top; text-align: center; margin: 0; padding: 0 0 10px;"" align=""center"" valign=""top"">Email : <a style=""text-decoration: none; color: #777777; display: inline-block;"" href=""mailto:hello@placio.in"" target=""_blank"">hello@placio.in</a> Mob No. : <a style=""text-decoration: none; color: #777777;"" href=""tel:+917053109531"" target=""_blank"">+91 705.310.9531</a><br />
+<p style=""color: #777777; display: inline-block;"">PLACIO, Eco Towers, Plot no. A 14, 8th Floor, Sector 125, Noida, 201301 Uttar Pradesh</p>
+</td>
+</tr>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0; padding: 0;"">
+<td style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 12px; vertical-align: top; text-align: center; margin: 0; padding: 0 0 20px;"" align=""center"" valign=""top"">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</td>
+<td style=""font-family: 'Helvetica Neue','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; vertical-align: top; margin: 0; padding: 0;"" valign=""top"">&nbsp;</td>
+</tr>
+</tbody>
+</table>"
+"12","book-property","New Book Property Lead","Placio","hello@placio.in","<table style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 15px; width: 100%; background: #f2f2f2; margin: 0; padding: 0;"">
+<tbody>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0; padding: 0;"">
+<td style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; vertical-align: top; display: block!important; max-width: 600px!important; clear: both!important; margin: 0 auto; padding: 0;"" valign=""top"" width=""600"">
+<div style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; max-width: 600px; display: block; margin: 0 auto; padding: 20px;"">
+<table style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; border-radius: 3px; background: #fff; margin: 0; padding: 0; border: 1px solid #e9e9e9;"" width=""100%"" cellspacing=""0"" cellpadding=""2"">
+<tbody>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; margin: 0; padding: 0;"">
+<td style=""text-align: center; box-sizing: border-box; vertical-align: middle; margin: 0; padding: 18px 30px 0px 30px;"" valign=""center"">
+<div style=""border-bottom: 1px solid #e5e5e5; padding-bottom: 5px; text-align: center;""><a style=""text-decoration: none; display: inline-block;"" href=""#"" target=""_blank""> <img style=""width: 25%;"" src=""{{base_url}}{{logo_name}}"" alt=""Placio"" /> </a></div>
+</td>
+</tr>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; margin: 0; padding: 0;"">
+<td style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; vertical-align: top; margin: 0; padding: 30px; padding-top: 5px;"" valign=""top"">
+<p>Dear Sir/Madam</p>
+<table border=""1"" width=""100%"" cellspacing=""0"" cellpadding=""5"">
+<tbody>
+<tr>
+<td style=""width: 35%; padding: 10px;""><strong>Name</strong></td>
+<td>&nbsp;{{name}}</td>
+</tr>
+<tr>
+<td style=""padding: 10px;""><strong>Email</strong></td>
+<td>&nbsp;{{email}}</td>
+</tr>
+<tr>
+<td style=""padding: 10px;""><strong>Mobile No</strong></td>
+<td>&nbsp;{{mobile_no}}</td>
+</tr>
+<tr>
+<td style=""padding: 10px;""><strong>Property Url</strong></td>
+<td><a href=""{{property_url}}"" target=""_blank"">Click Here</a></td>
+</tr>
+</tbody>
+</table>
+<p><br />Thanks &amp; Regards, <br /> {{site_name}}</p>
+</td>
+</tr>
+</tbody>
+</table>
+<div style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; width: 100%; clear: both; color: #999; margin: 0; padding-top: 20px; padding-bottom: 20px;"">
+<table style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0; padding: 0;"" width=""100%"">
+<tbody>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0; padding: 0;"">
+<td style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 12px; vertical-align: top; text-align: center; margin: 0; padding: 0 0 20px;"" align=""center"" valign=""top""><a style=""text-decoration: none; display: inline-block; margin-right: 5px;"" href=""{{facebook_url}}"" target=""_blank""> <img title=""facebook"" src=""{{base_url}}hms/img/social/email/facebook.png"" alt=""facebook"" width=""30"" /> </a> <a style=""text-decoration: none; display: inline-block; margin-right: 5px;"" href=""{{linkedin_url}}"" target=""_blank""> <img title=""linkedin"" src=""{{base_url}}hms/img/social/email/linkedin.png"" alt=""linkedin"" width=""30"" /> </a> <a style=""text-decoration: none; display: inline-block; margin-right: 5px;"" href=""{{instagram_url}}"" target=""_blank""> <img title=""instagram"" src=""{{base_url}}hms/img/social/email/instagram.png"" alt=""instagram"" width=""30"" /> </a> <a style=""text-decoration: none; display: inline-block; margin-right: 5px;"" href=""{{twitter_url}}"" target=""_blank""> <img title=""twitter"" src=""{{base_url}}hms/img/social/email/twitter.png"" alt=""twitter"" width=""30"" /> </a> <a style=""text-decoration: none; display: inline-block;"" href=""{{google_plus_url}}"" target=""_blank""> <img title=""google"" src=""{{base_url}}hms/img/social/email/google-plus.png"" alt=""google"" width=""30"" /> </a></td>
+</tr>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0; padding: 0;"">
+<td style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 12px; vertical-align: top; text-align: center; margin: 0; padding: 0 0 10px;"" align=""center"" valign=""top"">Email : <a style=""text-decoration: none; color: #777777; display: inline-block;"" href=""mailto:hello@placio.in"" target=""_blank"">hello@placio.in</a> Mob No. : <a style=""text-decoration: none; color: #777777;"" href=""tel:+917053109531"" target=""_blank"">+91 705.310.9531</a><br />
+<p style=""color: #777777; display: inline-block;"">PLACIO, 8th Floor Eco Towers, Plot no. A 14, , Sector 125, Noida, 201301 Uttar Pradesh</p>
+</td>
+</tr>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0; padding: 0;"">
+<td style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 12px; vertical-align: top; text-align: center; margin: 0; padding: 0 0 20px;"" align=""center"" valign=""top"">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</td>
+<td style=""font-family: 'Helvetica Neue','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; vertical-align: top; margin: 0; padding: 0;"" valign=""top"">&nbsp;</td>
+</tr>
+</tbody>
+</table>"
+"13","welcome-mail-for-tenant","Welcome to PLACIO","Placio","hello@placio.in","<table style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 15px; width: 100%; background: #f2f2f2; margin: 0; padding: 0;"">
+<tbody>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0; padding: 0;"">
+<td style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; vertical-align: top; display: block!important; max-width: 600px!important; clear: both!important; margin: 0 auto; padding: 0;"" valign=""top"" width=""600"">
+<div style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; max-width: 600px; display: block; margin: 0 auto; padding: 20px;"">
+<table style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; border-radius: 3px; background: #fff; margin: 0; padding: 0; border: 1px solid #e9e9e9;"" width=""100%"" cellspacing=""0"" cellpadding=""2"">
+<tbody>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; margin: 0; padding: 0;"">
+<td style=""text-align: center; box-sizing: border-box; vertical-align: middle; margin: 0; padding: 18px 30px 0px 30px;"" valign=""center"">
+<div style=""border-bottom: 1px solid #e5e5e5; padding-bottom: 5px; text-align: center;""><a style=""text-decoration: none; display: inline-block;"" href=""#"" target=""_blank""> <img style=""width: 25%;"" src=""{{base_url}}{{logo_name}}"" alt=""Placio Logo"" /> </a></div>
+</td>
+</tr>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; margin: 0; padding: 0;"">
+<td style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; vertical-align: top; margin: 0; padding: 30px; padding-top: 5px;"" valign=""top"">
+<p>Hi {{tnt_name}}</p>
+<p>Welcome to <a title=""PLACIO"" href=""https://www.placio.in"">Placio</a>!</p>
+<p>Your <strong>TENANT ID</strong> is:&nbsp;<strong>{{tnt_code}}&nbsp;</strong></p>
+<p>We request you to please keep this safe, and use this for all your future communications with <strong>Placio</strong> Family.</p>
+<p>In endeavour to serve you better, we shall send you multiple communication to ensure smooth working relations between your stay and our services at Placio.</p>
+<p><a title=""Download Student Handbook"" href=""{{base_url}}hms/tenant/handbook.pdf"" target=""_blank"">Download Student Handbook 2018</a><br /><br /><a title=""Download Tenancy Policy"" href=""{{base_url}}hms/tenant/tenancy_policy.pdf"" target=""_blank"">Download Tenancy Policy</a><br /><br /><a title=""Download House Rule Guide"" href=""{{base_url}}hms/tenant/house_rules.pdf"" target=""_blank"">Download House Rule Guide<br /><br /></a></p>
+<p>To Connect with your Community Manager Please note the details:-</p>
+<table style=""width: 100%;"" border=""1"" cellspacing=""0"" cellpadding=""5"">
+<tbody>
+<tr>
+<td style=""width: 45%; padding: 10px;"">Name</td>
+<td>&nbsp;: {{cm_name}}</td>
+</tr>
+<tr>
+<td style=""width: 45%; padding: 10px;"">Mobile No.</td>
+<td>&nbsp;: {{cm_mobile_no}}</td>
+</tr>
+</tbody>
+</table>
+<p style=""text-align: center;""><strong><br />For Safe and Secure Placio Living Please Download:-</strong></p>
+<p style=""text-align: center;""><img style=""width: 25%;"" src=""{{base_url}}hms/img/24response_logo.png"" alt=""24Response Logo"" /></p>
+<p style=""text-align: center;""><a title=""For iOS"" href=""https://itunes.apple.com/in/app/24-response/id987064767?mt=8"" target=""_blank"">For iOS</a>&nbsp; &nbsp; &nbsp; <a title=""24Response"" href=""https://play.google.com/store/apps/details?id=com.luckey.onetouch1&amp;hl=en_IN"" target=""_blank"">For Android<br /><br /></a></p>
+<p style=""text-align: center;"">We would love to hear from you, Please call for any clarifications :-&nbsp;<br />+<a style=""text-decoration: none; color: #777777;"" href=""tel:919870310302"" target=""_blank"">91 987.031.0302&nbsp;</a></p>
+<p style=""text-align: left;"">Thanks &amp; Regards, <br /> {{site_name}}</p>
+</td>
+</tr>
+</tbody>
+</table>
+<div style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; width: 100%; clear: both; color: #999; margin: 0; padding-top: 20px; padding-bottom: 20px;"">
+<table style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0; padding: 0;"" width=""100%"">
+<tbody>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0; padding: 0;"">
+<td style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 12px; vertical-align: top; text-align: center; margin: 0; padding: 0 0 20px;"" align=""center"" valign=""top""><a style=""text-decoration: none; display: inline-block; margin-right: 5px;"" href=""{{facebook_url}}"" target=""_blank""> <img title=""facebook"" src=""{{base_url}}hms/img/social/email/facebook.png"" alt=""facebook"" width=""30"" /> </a> <a style=""text-decoration: none; display: inline-block; margin-right: 5px;"" href=""{{linkedin_url}}"" target=""_blank""> <img title=""linkedin"" src=""{{base_url}}hms/img/social/email/linkedin.png"" alt=""linkedin"" width=""30"" /> </a> <a style=""text-decoration: none; display: inline-block; margin-right: 5px;"" href=""{{instagram_url}}"" target=""_blank""> <img title=""instagram"" src=""{{base_url}}hms/img/social/email/instagram.png"" alt=""instagram"" width=""30"" /> </a> <a style=""text-decoration: none; display: inline-block; margin-right: 5px;"" href=""{{twitter_url}}"" target=""_blank""> <img title=""twitter"" src=""{{base_url}}hms/img/social/email/twitter.png"" alt=""twitter"" width=""30"" /> </a> <a style=""text-decoration: none; display: inline-block;"" href=""{{google_plus_url}}"" target=""_blank""> <img title=""google"" src=""{{base_url}}hms/img/social/email/google-plus.png"" alt=""google"" width=""30"" /> </a></td>
+</tr>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0; padding: 0;"">
+<td style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 12px; vertical-align: top; text-align: center; margin: 0; padding: 0 0 10px;"" align=""center"" valign=""top"">Email : <a style=""text-decoration: none; color: #777777; display: inline-block;"" href=""mailto:hello@placio.in"" target=""_blank"">hello@placio.in</a>&nbsp;Customer Care. : <a style=""text-decoration: none; color: #777777;"" href=""tel:+917053109531"" target=""_blank"">+91 705.310.9531</a><br />
+<p style=""color: #777777; display: inline-block;"">PLACIO, 8th Floor Eco Towers, Plot no. A 14, , Sector 125, Noida, 201301 Uttar Pradesh</p>
+</td>
+</tr>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0; padding: 0;"">
+<td style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 12px; vertical-align: top; text-align: center; margin: 0; padding: 0 0 20px;"" align=""center"" valign=""top"">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</td>
+<td style=""font-family: 'Helvetica Neue','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; vertical-align: top; margin: 0; padding: 0;"" valign=""top"">&nbsp;</td>
+</tr>
+</tbody>
+</table>"
+"14","partner-with-us","Partner With Us","Placio","hello@placio.in","<table style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 15px; width: 100%; background: #f2f2f2; margin: 0; padding: 0;"">
+<tbody>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0; padding: 0;"">
+<td style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; vertical-align: top; display: block!important; max-width: 600px!important; clear: both!important; margin: 0 auto; padding: 0;"" valign=""top"" width=""600"">
+<div style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; max-width: 600px; display: block; margin: 0 auto; padding: 20px;"">
+<table style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; border-radius: 3px; background: #fff; margin: 0; padding: 0; border: 1px solid #e9e9e9;"" width=""100%"" cellspacing=""0"" cellpadding=""2"">
+<tbody>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; margin: 0; padding: 0;"">
+<td style=""text-align: center; box-sizing: border-box; vertical-align: middle; margin: 0; padding: 18px 30px 0px 30px;"" valign=""center"">
+<div style=""border-bottom: 1px solid #e5e5e5; padding-bottom: 5px; text-align: center;""><a style=""text-decoration: none; display: inline-block;"" href=""#"" target=""_blank""> <img style=""width: 25%;"" src=""{{base_url}}{{logo_name}}"" alt=""Placio"" /> </a></div>
+</td>
+</tr>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; margin: 0; padding: 0;"">
+<td style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; vertical-align: top; margin: 0; padding: 30px; padding-top: 5px;"" valign=""top"">
+<p>Dear Sir/Madam</p>
+<table border=""1"" width=""100%"" cellspacing=""0"" cellpadding=""5"">
+<tbody>
+<tr>
+<td style=""width: 35%; padding: 10px;""><strong>Name</strong></td>
+<td>&nbsp;{{name}}</td>
+</tr>
+<tr>
+<td style=""padding: 10px;""><strong>Email</strong></td>
+<td>&nbsp;{{email}}</td>
+</tr>
+<tr>
+<td style=""padding: 10px;""><strong>Mobile No</strong></td>
+<td>&nbsp;{{mobile_no}}</td>
+</tr>
+<tr>
+<td style=""padding: 10px;""><strong>Type of Property</strong></td>
+<td>&nbsp;{{type_of_property}}</td>
+</tr>
+<tr>
+<td style=""padding: 10px;""><strong>No. of Bedrooms</strong></td>
+<td>&nbsp;{{no_of_bedrooms}}</td>
+</tr>
+<tr>
+<td style=""padding: 10px;""><strong>Vacant / Occupied</strong></td>
+<td>&nbsp;{{vacant_occupied}}</td>
+</tr>
+<tr>
+<td style=""padding: 10px;""><strong>City</strong></td>
+<td>&nbsp;{{city}}</td>
+</tr>
+<tr>
+<td style=""padding: 10px;""><strong>Address</strong></td>
+<td>&nbsp;{{address}}</td>
+</tr>
+<tr>
+<td style=""padding: 10px;""><strong>Message</strong></td>
+<td>&nbsp;{{message}}</td>
+</tr>
+</tbody>
+</table>
+<p style=""margin-left: 15px;"">&nbsp;</p>
+<p>Thanks &amp; Regards, <br /> {{site_name}}</p>
+</td>
+</tr>
+</tbody>
+</table>
+<div style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; width: 100%; clear: both; color: #999; margin: 0; padding-top: 20px; padding-bottom: 20px;"">
+<table style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0; padding: 0;"" width=""100%"">
+<tbody>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0; padding: 0;"">
+<td style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 12px; vertical-align: top; text-align: center; margin: 0; padding: 0 0 20px;"" align=""center"" valign=""top""><a style=""text-decoration: none; display: inline-block; margin-right: 5px;"" href=""{{facebook_url}}"" target=""_blank""> <img title=""facebook"" src=""{{base_url}}hms/img/social/email/facebook.png"" alt=""facebook"" width=""30"" /> </a> <a style=""text-decoration: none; display: inline-block; margin-right: 5px;"" href=""{{linkedin_url}}"" target=""_blank""> <img title=""linkedin"" src=""{{base_url}}hms/img/social/email/linkedin.png"" alt=""linkedin"" width=""30"" /> </a> <a style=""text-decoration: none; display: inline-block; margin-right: 5px;"" href=""{{instagram_url}}"" target=""_blank""> <img title=""instagram"" src=""{{base_url}}hms/img/social/email/instagram.png"" alt=""instagram"" width=""30"" /> </a> <a style=""text-decoration: none; display: inline-block; margin-right: 5px;"" href=""{{twitter_url}}"" target=""_blank""> <img title=""twitter"" src=""{{base_url}}hms/img/social/email/twitter.png"" alt=""twitter"" width=""30"" /> </a> <a style=""text-decoration: none; display: inline-block;"" href=""{{google_plus_url}}"" target=""_blank""> <img title=""google"" src=""{{base_url}}hms/img/social/email/google-plus.png"" alt=""google"" width=""30"" /> </a></td>
+</tr>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0; padding: 0;"">
+<td style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 12px; vertical-align: top; text-align: center; margin: 0; padding: 0 0 10px;"" align=""center"" valign=""top"">Email : <a style=""text-decoration: none; color: #777777; display: inline-block;"" href=""mailto:hello@placio.in"" target=""_blank"">hello@placio.in</a> Mob No. : <a style=""text-decoration: none; color: #777777;"" href=""tel:+917053109531"" target=""_blank"">+91 705.310.9531</a><br />
+<p style=""color: #777777; display: inline-block;"">PLACIO,8th Floor Eco Towers, Plot no. A 14, , Sector 125, Noida, 201301 Uttar Pradesh</p>
+</td>
+</tr>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0; padding: 0;"">
+<td style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 12px; vertical-align: top; text-align: center; margin: 0; padding: 0 0 20px;"" align=""center"" valign=""top"">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</td>
+<td style=""font-family: 'Helvetica Neue','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; vertical-align: top; margin: 0; padding: 0;"" valign=""top"">&nbsp;</td>
+</tr>
+</tbody>
+</table>"
+"15","refer-data-admin","Placio Refer","Placio","hello@placio.in","<table style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 15px; width: 100%; background: #f2f2f2; margin: 0; padding: 0;"">
+<tbody>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0; padding: 0;"">
+<td style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; vertical-align: top; display: block!important; max-width: 600px!important; clear: both!important; margin: 0 auto; padding: 0;"" valign=""top"" width=""600"">
+<div style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; max-width: 600px; display: block; margin: 0 auto; padding: 20px;"">
+<table style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; border-radius: 3px; background: #fff; margin: 0; padding: 0; border: 1px solid #e9e9e9;"" width=""100%"" cellspacing=""0"" cellpadding=""2"">
+<tbody>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; margin: 0; padding: 0;"">
+<td style=""text-align: center; box-sizing: border-box; vertical-align: middle; margin: 0; padding: 18px 30px 0px 30px;"" valign=""center"">
+<div style=""border-bottom: 1px solid #e5e5e5; padding-bottom: 5px; text-align: center;""><a style=""text-decoration: none; display: inline-block;"" href=""#"" target=""_blank""> <img style=""width: 25%;"" src=""{{base_url}}{{logo_name}}"" alt=""Placio"" /> </a></div>
+</td>
+</tr>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; margin: 0; padding: 0;"">
+<td style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; vertical-align: top; margin: 0; padding: 30px; padding-top: 5px;"" valign=""top"">
+<p>Dear Sir/Madam</p>
+<table border=""1"" width=""100%"" cellspacing=""0"" cellpadding=""5"">
+<tbody>
+<tr>
+<td style=""width: 35%; padding: 10px;""><strong>Name</strong></td>
+<td>&nbsp;{{name}}</td>
+</tr>
+<tr>
+<td style=""padding: 10px;""><strong>Email</strong></td>
+<td>&nbsp;{{email}}</td>
+</tr>
+<tr>
+<td style=""padding: 10px;""><strong>Mobile No</strong></td>
+<td>&nbsp;{{mobile_no}}</td>
+</tr>
+<tr>
+<td style=""padding: 10px;""><strong>Profile</strong></td>
+<td>&nbsp;{{profile}}</td>
+</tr>
+<tr>
+<td style=""padding: 10px;""><strong>Name Institute</strong></td>
+<td>&nbsp;{{name_institute}}</td>
+</tr>
+<tr>
+<td style=""padding: 10px;""><strong>Referral Name</strong></td>
+<td>&nbsp;{{referral_name}}</td>
+</tr>
+<tr>
+<td style=""padding: 10px;""><strong>Referral Email</strong></td>
+<td>&nbsp;{{referral_email}}</td>
+</tr>
+<tr>
+<td style=""padding: 10px;""><strong>Referral Mobile No</strong></td>
+<td>&nbsp;{{referral_mobile_no}}</td>
+</tr>
+<tr>
+<td style=""padding: 10px;""><strong>Message</strong></td>
+<td>&nbsp;{{description}}</td>
+</tr>
+</tbody>
+</table>
+<p><br />Thanks &amp; Regards, <br /> {{site_name}}</p>
+</td>
+</tr>
+</tbody>
+</table>
+<div style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; width: 100%; clear: both; color: #999; margin: 0; padding-top: 20px; padding-bottom: 20px;"">
+<table style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0; padding: 0;"" width=""100%"">
+<tbody>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0; padding: 0;"">
+<td style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 12px; vertical-align: top; text-align: center; margin: 0; padding: 0 0 20px;"" align=""center"" valign=""top""><a style=""text-decoration: none; display: inline-block; margin-right: 5px;"" href=""{{facebook_url}}"" target=""_blank""> <img title=""facebook"" src=""{{base_url}}hms/img/social/email/facebook.png"" alt=""facebook"" width=""30"" /> </a> <a style=""text-decoration: none; display: inline-block; margin-right: 5px;"" href=""{{linkedin_url}}"" target=""_blank""> <img title=""linkedin"" src=""{{base_url}}hms/img/social/email/linkedin.png"" alt=""linkedin"" width=""30"" /> </a> <a style=""text-decoration: none; display: inline-block; margin-right: 5px;"" href=""{{instagram_url}}"" target=""_blank""> <img title=""instagram"" src=""{{base_url}}hms/img/social/email/instagram.png"" alt=""instagram"" width=""30"" /> </a> <a style=""text-decoration: none; display: inline-block; margin-right: 5px;"" href=""{{twitter_url}}"" target=""_blank""> <img title=""twitter"" src=""{{base_url}}hms/img/social/email/twitter.png"" alt=""twitter"" width=""30"" /> </a> <a style=""text-decoration: none; display: inline-block;"" href=""{{google_plus_url}}"" target=""_blank""> <img title=""google"" src=""{{base_url}}hms/img/social/email/google-plus.png"" alt=""google"" width=""30"" /> </a></td>
+</tr>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0; padding: 0;"">
+<td style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 12px; vertical-align: top; text-align: center; margin: 0; padding: 0 0 10px;"" align=""center"" valign=""top"">Email : <a style=""text-decoration: none; color: #777777; display: inline-block;"" href=""mailto:hello@placio.in"" target=""_blank"">hello@placio.in</a> Mob No. : <a style=""text-decoration: none; color: #777777;"" href=""tel:+917053109531"" target=""_blank"">+91 705.310.9531</a><br />
+<p style=""color: #777777; display: inline-block;"">PLACIO, 8th Floor Eco Towers, Plot no. A 14, , Sector 125, Noida, 201301 Uttar Pradesh</p>
+</td>
+</tr>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0; padding: 0;"">
+<td style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 12px; vertical-align: top; text-align: center; margin: 0; padding: 0 0 20px;"" align=""center"" valign=""top"">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</td>
+<td style=""font-family: 'Helvetica Neue','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; vertical-align: top; margin: 0; padding: 0;"" valign=""top"">&nbsp;</td>
+</tr>
+</tbody>
+</table>"
+"16","pay-rent-admin","Pay Rent","Placio","hello@placio.in","<table style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 15px; width: 100%; background: #f2f2f2; margin: 0; padding: 0;"">
+<tbody>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0; padding: 0;"">
+<td style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; vertical-align: top; display: block!important; max-width: 600px!important; clear: both!important; margin: 0 auto; padding: 0;"" valign=""top"" width=""600"">
+<div style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; max-width: 600px; display: block; margin: 0 auto; padding: 20px;"">
+<table style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; border-radius: 3px; background: #fff; margin: 0; padding: 0; border: 1px solid #e9e9e9;"" width=""100%"" cellspacing=""0"" cellpadding=""2"">
+<tbody>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; margin: 0; padding: 0;"">
+<td style=""text-align: center; box-sizing: border-box; vertical-align: middle; margin: 0; padding: 18px 30px 0px 30px;"" valign=""center"">
+<div style=""border-bottom: 1px solid #e5e5e5; padding-bottom: 5px; text-align: center;""><a style=""text-decoration: none; display: inline-block;"" href=""#"" target=""_blank""> <img style=""width: 25%;"" src=""{{base_url}}{{logo_name}}"" alt=""Placio"" /> </a></div>
+</td>
+</tr>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; margin: 0; padding: 0;"">
+<td style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; vertical-align: top; margin: 0; padding: 30px; padding-top: 5px;"" valign=""top"">
+<p>Dear Sir/Madam</p>
+<table border=""1"" width=""100%"" cellspacing=""0"" cellpadding=""5"">
+<tbody>
+<tr>
+<td style=""width: 35%; padding: 10px;""><strong>Name</strong></td>
+<td>&nbsp;{{name}}</td>
+</tr>
+<tr>
+<td style=""padding: 10px;""><strong>Email</strong></td>
+<td>&nbsp;{{email}}</td>
+</tr>
+<tr>
+<td style=""padding: 10px;""><strong>Mobile No</strong></td>
+<td>&nbsp;{{mobile_no}}</td>
+</tr>
+<tr>
+<td style=""padding: 10px;""><strong>Payment type</strong></td>
+<td>&nbsp;{{paymenttype}}</td>
+</tr>
+<tr>
+<td style=""padding: 10px;""><strong>Property Name</strong></td>
+<td>&nbsp;{{property_name}}</td>
+</tr>
+<tr>
+<td style=""padding: 10px;""><strong>Bed No.</strong></td>
+<td>&nbsp;{{bed_no}}</td>
+</tr>
+<tr>
+<td style=""padding: 10px;""><strong>Bed</strong></td>
+<td>&nbsp;INR {{amount}}</td>
+</tr>
+<tr>
+<td style=""padding: 10px;""><strong>TXN Id</strong></td>
+<td>&nbsp;{{txn_id}}</td>
+</tr>
+<tr>
+<td style=""padding: 10px;""><strong>Mode</strong></td>
+<td>&nbsp;{{mode}}</td>
+</tr>
+<tr>
+<td style=""padding: 10px;""><strong>Create Date</strong></td>
+<td>&nbsp;{{create_date}}</td>
+</tr>
+</tbody>
+</table>
+<p style=""margin-left: 15px;"">&nbsp;</p>
+<p>Thanks &amp; Regards, <br /> {{site_name}}</p>
+</td>
+</tr>
+</tbody>
+</table>
+<div style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; width: 100%; clear: both; color: #999; margin: 0; padding-top: 20px; padding-bottom: 20px;"">
+<table style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0; padding: 0;"" width=""100%"">
+<tbody>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0; padding: 0;"">
+<td style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 12px; vertical-align: top; text-align: center; margin: 0; padding: 0 0 20px;"" align=""center"" valign=""top""><a style=""text-decoration: none; display: inline-block; margin-right: 5px;"" href=""{{facebook_url}}"" target=""_blank""> <img title=""facebook"" src=""{{base_url}}hms/img/social/email/facebook.png"" alt=""facebook"" width=""30"" /> </a> <a style=""text-decoration: none; display: inline-block; margin-right: 5px;"" href=""{{linkedin_url}}"" target=""_blank""> <img title=""linkedin"" src=""{{base_url}}hms/img/social/email/linkedin.png"" alt=""linkedin"" width=""30"" /> </a> <a style=""text-decoration: none; display: inline-block; margin-right: 5px;"" href=""{{instagram_url}}"" target=""_blank""> <img title=""instagram"" src=""{{base_url}}hms/img/social/email/instagram.png"" alt=""instagram"" width=""30"" /> </a> <a style=""text-decoration: none; display: inline-block; margin-right: 5px;"" href=""{{twitter_url}}"" target=""_blank""> <img title=""twitter"" src=""{{base_url}}hms/img/social/email/twitter.png"" alt=""twitter"" width=""30"" /> </a> <a style=""text-decoration: none; display: inline-block;"" href=""{{google_plus_url}}"" target=""_blank""> <img title=""google"" src=""{{base_url}}hms/img/social/email/google-plus.png"" alt=""google"" width=""30"" /> </a></td>
+</tr>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0; padding: 0;"">
+<td style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 12px; vertical-align: top; text-align: center; margin: 0; padding: 0 0 10px;"" align=""center"" valign=""top"">Email : <a style=""text-decoration: none; color: #777777; display: inline-block;"" href=""mailto:hello@placio.in"" target=""_blank"">hello@placio.in</a> Mob No. : <a style=""text-decoration: none; color: #777777;"" href=""tel:+917053109531"" target=""_blank"">+91 705.310.9531</a><br />
+<p style=""color: #777777; display: inline-block;"">PLACIO,8th Floor Eco Towers, Plot no. A 14, , Sector 125, Noida, 201301 Uttar Pradesh</p>
+</td>
+</tr>
+<tr style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0; padding: 0;"">
+<td style=""font-family: 'Open Sans','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 12px; vertical-align: top; text-align: center; margin: 0; padding: 0 0 20px;"" align=""center"" valign=""top"">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</td>
+<td style=""font-family: 'Helvetica Neue','Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; vertical-align: top; margin: 0; padding: 0;"" valign=""top"">&nbsp;</td>
+</tr>
+</tbody>
+</table>"

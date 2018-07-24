@@ -1,0 +1,21 @@
+"id","name","message"
+"1","send-login-detail","Hi {{name}} your login id for {{url}} is User ID: {{user_id}} Password: {{password}}
+"
+"2","add-bed-allotment","Hi {{tenant_name}} your Placio ID is [{{tenant_id}}] 
+You have been allotted bed no.  {{room_no}}  {{bed_no}}  in {{property_name}}. 
+Please check {{tnt_email}} for further details. 
+Enjoy Life@Placio 
+Call us @ +919870310302
+"
+"3","collect-fee","Hi {{tenant_name}} [{{tenant_id}}) Fee received INR{{collect_fee}} Invoice Id:{{invoice_id}} Dated:{{dated}} via {{pay_mode}}
+"
+"4","add-complaint","Hi {{tenant_name}} [{{tenant_id}}] complaint log Ticket ID: #{{ticket_id}} Status: {{status}}
+"
+"5","owner-e-kyc-for-admin","{{create_name}} create new Property owner E-KYC. Please login your EDGE for further detail.
+{{login_url}} "
+"6","welcome-sms-for-tenant","Hi {{tnt_name}} 
+Welcome to Placio Family! 
+Your tenant Id is : {{tnt_code}} 
+Please check {{tnt_email}} for further details. 
+Contact us : +919870310302  
+Team Placio"

@@ -1,0 +1,6 @@
+"name","type"
+"id","INT"
+"user_id","INT"
+"name","VARCHAR(10)"
+"description","VARCHAR(10)"
+"status","INT"

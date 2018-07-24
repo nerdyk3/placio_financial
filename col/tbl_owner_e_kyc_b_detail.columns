@@ -1,0 +1,7 @@
+"name","type"
+"id","INT"
+"kyc_id","INT"
+"beneficiary_name","VARCHAR(36)"
+"bank_name","VARCHAR(25)"
+"ac_no","VARCHAR(16)"
+"ifsc_code","VARCHAR(12)"

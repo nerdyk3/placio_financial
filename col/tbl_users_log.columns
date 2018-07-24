@@ -1,0 +1,8 @@
+"name","type"
+"id","INT"
+"user_id","INT"
+"login_ip","VARCHAR(15)"
+"login_time","VARCHAR(22)"
+"logout_time","VARCHAR(22)"
+"sessionname","INT"
+"create_date","VARCHAR(10)"
