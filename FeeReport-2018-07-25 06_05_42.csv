@@ -1,0 +1,640 @@
+Property Name,Invoice ID,TXN ID,Collected Amount,Tenant Code,Tenant Name,Mode,Term,Date,Status
+Placio Vinayaka,2018PMI01781,,12850,18192133,UTSAV BOSE,cash,monthly,2018-07-25,pending
+Placio Vinayaka,2018PMI01780,,12050,18192129,ARPIT MUKHARYA,cash,monthly,2018-07-25,pending
+Placio AK Mansion,2018PMI03779,,5500,181900856,ANKIT SINGH JADON,cash,monthly,2018-07-25,pending
+Placio RG Niwas,2018PF009778,,7016,18192128,GARIMA GOYAL,cheque,monthly,2018-07-25,pending
+Placio AK Mansion,2018PMI03777,,12850,18192127,JITENDRA ARYA,cash,monthly,2018-07-25,pending
+Placio Angel Town,2018PF011776,,2800,18192124,jaagriti srivastava,cash,monthly,2018-07-25,pending
+Placio Angel Town,2018PF011775,,4200,18192123,Bineet Kaur,cash,monthly,2018-07-25,pending
+Placio Imperial Homez,2018PF012774,,5500,18192121,Ruchi Karak,cash,monthly,2018-07-25,pending
+Placio Ashoka Inn,2018PM024773,,5500,18192120,SHUBHAM SHAHI,cash,monthly,2018-07-25,pending
+Placio Imperial Homez,2018PF012772,19825057835,5000,18192119,Shashi Bala,paytm,monthly,2018-07-25,pending
+Placio Angel Town,2018PF011771,,4033,18192115,Aarushi Pandey,cash,monthly,2018-07-25,pending
+Placio Angel Town,2018PF011770,,12500,181901484,Shikha Singh,cash,monthly,2018-07-25,pending
+Placio Ashoka Inn,2018PM024769,,9000,18192113,SIRSENDU DEY,cheque,monthly,2018-07-25,pending
+Placio AK Mansion,2018PMI03768,,5500,181900837,ANKIT SINGH YADAV,cash,monthly,2018-07-08,pending
+Placio Angel Town,2018PF011767,,10000,18192112,Pakhi Agarwal,cash,monthly,2018-07-24,pending
+Placio Angel Town,2018PF011766,,10000,18192111,Prabhleen Kaur,cash,monthly,2018-07-24,pending
+Placio Angel Town,2018PF011765,,3900,18192110,Swapna Pahan,cash,monthly,2018-07-25,pending
+Placio Lily,2018PF010764,817916292378,14000,181900587,Vartika Yadav,online,monthly,2018-07-25,pending
+Placio Half Penny Residency,2018PF030763,19812438202,14000,18192055,MOHD SAMAR,paytm,yearly,2018-07-24,pending
+Placio Half Penny Residency,2018PF030762,19812438202,14000,18192055,MOHD SAMAR,paytm,yearly,2018-07-24,pending
+Placio Half Penny Residency,2018PF030761,,20000,18192055,MOHD SAMAR,cash,yearly,2018-07-24,pending
+Placio Angel Town,2018PF011760,,3900,18192108,Soyeta Singh,cash,monthly,2018-07-25,pending
+Placio Half Penny Residency,2018PF030759,,50000,18191980,Arpit Gupta,cash,yearly,2018-07-25,pending
+Placio Home Care KO-17,2018PM017758,,15000,181901618,Anurag verma,cash,half-yearly,2018-07-20,paid
+Placio Home Care KO-17,2018PM017757,,70000,181901618,Anurag verma,online,half-yearly,2018-07-21,paid
+Placio JP House,2018PM013755,,8000,18192105,KAPIL MISHRA,cash,monthly,2018-07-24,pending
+Placio RG Niwas,2018PF009754,,5333,181901266,MANSI MISHRA,cash,monthly,2018-07-24,pending
+Placio RG Niwas,2018PF009753,19503172865,13250,181901265,POORNIMA GOEL,cash,monthly,2018-07-24,pending
+Placio RG Niwas,2018PF009752,,9500,181901262,ROSHNI VARSHNEY,cash,monthly,2018-07-24,pending
+Placio RG Niwas,2018PF009751,,9500,181901258,YASHI AGARWAL,cash,monthly,2018-07-24,pending
+Placio RG Niwas,2018PF009750,,2266,18192100,PRAGYA YADAV,cash,monthly,2018-07-24,pending
+Placio RG Niwas,2018PF009749,"19811050411,19801477700",2133,18192101,ANUSHA SINGH,paytm,monthly,2018-07-24,pending
+Placio Imperial Homez,2018PF012748,19815322552,10000,181901599,ridhima jain,paytm,monthly,2018-07-24,pending
+Placio Half Penny Residency,2018PF030747,2500320026536,57000,18192076,Shaurya Bajpai,online,yearly,2018-07-24,paid
+Placio Angel Paradise,2018PFI01746,,6500,181900776,PARUL DWIVEDI,cash,monthly,2018-07-24,pending
+Placio Shresth Homes,2018PF002745,cash,5500,18192092,Nikita khan,cash,half-yearly,2018-07-24,paid
+Placio Yash Homes,2018PM021744,,59000,18191539,Pulkit Agarwal,cash,half-yearly,2018-07-24,pending
+Placio Elite Homes,2018PM007743,cash,500,18192080,sarthak Chhabra,cash,half-yearly,2018-07-23,paid
+Placio Elite Homes,2018PM007742,cash,500,18192082,Manik Arora,cash,half-yearly,2018-07-23,paid
+Placio Elite Homes,2018PM007741,Cash,500,18192083,Sanchit Malik,cash,half-yearly,2018-07-23,paid
+Placio Elite Homes,2018PM007740,Cash,500,18192084,Dinesh Sharma,cash,half-yearly,2018-07-23,paid
+Placio Imperial Homez,2018PF012739,819217419260,2000,181901343,NUPUR SINHA,online,monthly,2018-07-11,paid
+Placio Home Care KO-11,2018PM015738,19756692017,5500,18192081,Manavendra pratap singh raghav,paytm,half-yearly,2018-07-20,pending
+Placio Home Care KO-17,2018PM017737,CASH,5500,18192058,Rahul ballyan,cash,half-yearly,2018-07-23,paid
+Placio Ashoka Inn,2018PM024736,,19500,181901077,Ramandeep Singh,cash,monthly,2018-07-23,pending
+Placio Ashoka Inn,2018PM024735,,30000,18192073,GAUTAM GOENKA,cash,monthly,2018-07-02,pending
+Placio Imperial Homez,2018PF012734,,5000,18192071,Salva Shah,cash,monthly,2018-07-23,pending
+Placio Pavillion,2018PM008733,Paid,5500,18192069,Abhinav puri,cash,half-yearly,2018-07-23,paid
+Placio Home Care KO-17,2018PM017732,Cash,48000,18192057,Divyansh tiwari,cash,half-yearly,2018-07-23,paid
+Placio Royal Living,2018PM026731,820413307576,28000,181901299,YUVRAJ,online,monthly,2018-07-23,pending
+Placio Home Care SL02,2018PM018730,,5500,18192054,abhiraj kashyap,cash,half-yearly,2018-07-21,pending
+Placio Home Care KO-17,2018PM017729,,5500,18192005,Tushar goyal,cash,half-yearly,2018-07-21,pending
+Placio Royal Living,2018PM026728,N204180591352835,22500,181901188,Prateek Mehta,online,monthly,2018-07-23,pending
+Placio Home Care KO-11,2018PM015727,,5500,18192052,Naman agarwal,cash,half-yearly,2018-07-21,pending
+Placio Imperial Homez,2018PF012726,N202180590731118,5000,18192049,Titli,online,monthly,2018-07-21,paid
+Placio Imperial Homez,2018PF012725,,26250,18192048,yashneet chaudhary,cash,monthly,2018-07-22,pending
+Placio Imperial Homez,2018PF012724,sbin418198564742,5500,18192048,yashneet chaudhary,online,monthly,2018-07-17,pending
+Placio Imperial Homez,2018PF012723,Log Cash 20/07/2018,9000,18192047,Pratisha Varshney,cash,monthly,2018-07-10,paid
+Placio Imperial Homez,2018PF012722,Logi Cash 20/07/2018,33500,18191944,Shanshika Mahant,cash,monthly,2018-07-19,paid
+Placio Imperial Homez,2018PF012721,19791519529,25000,181901531,YUKTA LAL,paytm,monthly,2018-07-22,paid
+Placio Royal Living,2018PM026720,820321413602,35500,181901443,SABYASACHI ROY,online,monthly,2018-07-23,pending
+Placio Royal Living,2018PM026719,,5500,18192037,Priyanshu Aggarwal,cash,monthly,2018-07-22,pending
+Placio Ashoka Inn,2018PM024718,,10000,18192045,Rahul Setia,cash,monthly,2018-07-22,pending
+Placio Ashoka Inn,2018PM024717,,26000,18192043,ARYAMAN,cash,monthly,2018-07-22,pending
+Placio Ashoka Inn,2018PM024716,,14500,18192042,SARTHAK JAIN,cash,monthly,2018-07-22,pending
+Placio Ashoka Inn,2018PM024715,,18000,181901117,SUMIT DINESH SANGHANI,cash,monthly,2018-07-22,pending
+Placio Ashoka Inn,2018PM024714,,14000,18192041,Raghav Dubey,cash,monthly,2018-07-22,pending
+Placio Crystal Homez,2018PF034712,,40000,181901506,KOPAL AGARWAL,cash,monthly,2018-07-22,pending
+Placio Crystal Homez,2018PF034711,,35000,181901507,SHARU GOYAL,cash,monthly,2018-07-22,pending
+Placio Crystal Homez,2018PF034710,,40000,18191762,RIDHI,cash,monthly,2018-07-22,pending
+Placio Crystal Homez,2018PF034709,,32500,181901508,PRAGYA GOEL,cash,monthly,2018-07-22,pending
+Placio Crystal Homez,2018PF034708,,38000,18192040,SIMRAN KAUR,cash,monthly,2018-07-22,pending
+Placio Crystal Homez,2018PF034707,,5500,18192039,PINKI CHOUDHARY,cash,monthly,2018-07-22,pending
+Placio Crystal Homez,2018PF034706,,5500,18192039,PINKI CHOUDHARY,cash,monthly,2018-07-22,pending
+Placio Ashoka Inn,2018PM024705,,26500,18192038,Shreyas singh,cash,monthly,2018-07-22,pending
+Placio Royal Living,2018PM026704,,32500,18192037,Priyanshu Aggarwal,cash,monthly,2018-07-22,pending
+Placio Crystal Homez,2018PF034703,36,43500,18192034,ANOUSHKA BARIKA,cheque,monthly,2018-07-22,pending
+Placio Crystal Homez,2018PF034702,,500,18192034,ANOUSHKA BARIKA,cash,monthly,2018-07-22,pending
+Placio Crystal Homez,2018PF034701,,5500,18192032,SALONI JAIN,cash,monthly,2018-07-22,pending
+Placio Crystal Homez,2018PF034699,,41500,181901310,SAKSHI,cash,monthly,2018-07-22,pending
+Placio Crystal Homez,2018PF034698,820019726166,6000,181901309,MUSKAN,online,monthly,2018-07-22,pending
+Placio Crystal Homez,2018PF034697,820019726217,10000,181901309,MUSKAN,online,monthly,2018-07-22,pending
+Placio Crystal Homez,2018PF034696,820019726339,5001,181901309,MUSKAN,online,monthly,2018-07-22,pending
+Placio Crystal Homez,2018PF034695,820019726272,5000,181901309,MUSKAN,online,monthly,2018-07-22,pending
+Placio Crystal Homez,2018PF034694,820019726090,10000,181901309,MUSKAN,online,monthly,2018-07-22,pending
+Placio Crystal Homez,2018PF034693,,34000,181901278,Tushika,cash,monthly,2018-07-22,pending
+Placio Crystal Homez,2018PF034692,,25333,18192031,SALONI PATNI,cash,monthly,2018-07-22,pending
+Placio Crystal Homez,2018PF034691,,5500,18192031,SALONI PATNI,cash,monthly,2018-07-22,pending
+Placio Crystal Homez,2018PF034690,,15000,18192030,saloni pareek,cash,monthly,2018-07-22,pending
+Placio Exotic Living,2018PF032689,,25500,181901540,himanshi,cash,monthly,2018-07-22,pending
+Placio Exotic Living,2018PF032688,820218330849,38000,18192022,varni singhal,online,monthly,2018-07-22,pending
+Placio Exotic Living,2018PF032687,,5500,18192023,nidhi singh,cash,monthly,2018-07-22,pending
+Placio Imperial Homez,2018PF012686,,35000,18192025,asita srivastava,cash,monthly,2018-07-22,pending
+Placio Imperial Homez,2018PF012685,19788670114,23500,181901345,MANSI RAHI,paytm,monthly,2018-07-22,paid
+Placio Royal Living,2018PM026684,,18000,181901377,ROHIT JAIN,cash,monthly,2018-07-22,pending
+Placio Royal Living,2018PM026683,,10000,181901381,EKLAVYA SINGH,cash,monthly,2018-07-22,pending
+Placio Royal Living,2018PM026682,,26000,181901344,DIVYANSH BANSAL,cash,monthly,2018-07-22,pending
+Placio Royal Living,2018PM026681,,26000,181901344,DIVYANSH BANSAL,cash,monthly,2018-07-22,pending
+Placio Royal Living,2018PM026680,,26000,181901344,DIVYANSH BANSAL,cash,monthly,2018-07-22,pending
+Placio Royal Living,2018PM026679,,26000,181901344,DIVYANSH BANSAL,cash,monthly,2018-07-22,pending
+Placio Royal Living,2018PM026678,,26000,181901344,DIVYANSH BANSAL,cash,monthly,2018-07-22,pending
+Placio Royal Living,2018PM026677,,26000,181901344,DIVYANSH BANSAL,cash,monthly,2018-07-22,pending
+Placio Royal Living,2018PM026676,,26000,181901344,DIVYANSH BANSAL,cash,monthly,2018-07-22,pending
+Placio Royal Living,2018PM026675,,26000,181901344,DIVYANSH BANSAL,cash,monthly,2018-07-22,pending
+Placio Royal Living,2018PM026674,,26000,181901344,DIVYANSH BANSAL,cash,monthly,2018-07-22,pending
+Placio Royal Living,2018PM026673,,26000,181901344,DIVYANSH BANSAL,cash,monthly,2018-07-22,pending
+Placio Royal Living,2018PM026672,,26000,181901344,DIVYANSH BANSAL,cash,monthly,2018-07-22,pending
+Placio Royal Living,2018PM026671,,26000,181901344,DIVYANSH BANSAL,cash,monthly,2018-07-22,pending
+Placio Royal Living,2018PM026670,820215771395,35500,181901331,VIDIT BHAT,online,monthly,2018-07-22,pending
+Placio Imperial Homez,2018PF012669,,5500,18192017,Archita Singh,cash,monthly,2018-07-22,pending
+Placio Imperial Homez,2018PF012668,,4000,181901355,shruti sargam,cash,monthly,2018-07-18,pending
+Placio Imperial Homez,2018PF012667,sbin618201926558,21000,181901355,shruti sargam,online,monthly,2018-07-20,pending
+Placio Imperial Homez,2018PF012666,201180590274750,11500,18191984,anjali shukla,online,monthly,2018-07-20,paid
+Placio Imperial Homez,2018PF012665,n 201180590274750,11500,18191989,Anshika Singh,online,monthly,2018-07-20,pending
+Placio Shresth Homes,2018PF002664,,5500,18192004,Rayana,cash,half-yearly,2018-07-21,pending
+Placio Imperial Homez,2018PF012663,Logi Cash 20/07/2018,23500,181901340,Kanupriya Agarwal,cash,monthly,2018-07-19,paid
+Placio Imperial Homez,2018PF012662,197180587167192,11000,18191984,anjali shukla,online,monthly,2018-07-16,paid
+Placio Imperial Homez,2018PF012661,,5500,18191989,Anshika Singh,cash,monthly,2018-07-16,pending
+Placio Home Care SL02,2018PM018660,,5500,18192003,Ayush gupta,cash,half-yearly,2018-07-21,pending
+Placio Royal Living,2018PM026659,820121399424,15000,181901382,PRATYAKSH KAUSHIK,online,monthly,2018-07-21,pending
+Placio Royal Living,2018PM026658,820016329441,10000,181901382,PRATYAKSH KAUSHIK,online,monthly,2018-07-21,pending
+Placio Royal Living,2018PM026657,,5500,181901382,PRATYAKSH KAUSHIK,cash,monthly,2018-07-21,pending
+Placio Royal Living,2018PM026656,19747026559,31000,181901442,BHUPENDRA SINGH RAJPOOT,paytm,monthly,2018-07-21,pending
+Placio Imperial Homez,2018PF012655,Logi Cash 20/07/2018,5500,18191947,rupal kaushik,cash,monthly,2018-07-19,paid
+Placio Royal Living,2018PM026654,,32500,181901553,SARAL AGRAWAL,cash,monthly,2018-07-19,pending
+Placio Lily,2018PF010653,,21000,181900573,SHIVALI SINGH,cash,monthly,2018-07-21,pending
+Placio Royal Living,2018PM026652,,5500,181901553,SARAL AGRAWAL,cash,monthly,2018-07-21,pending
+Placio Amy House,2018PM004648,,500,181900205,Samuel Renvungo Mozhvi,cash,half-yearly,2018-07-20,pending
+Placio Royal Living,2018PM026647,,14750,181901493,RAHI MALLICK,cash,monthly,2018-07-21,pending
+Placio Royal Living,2018PM026646,SBIN518200927322,36000,181901441,PALLAV SHRIVASTAVA,online,monthly,2018-07-21,paid
+Placio Royal Living,2018PM026645,,36000,181901123,Rajiv Surana,cash,monthly,2018-07-21,pending
+Placio Imperial Homez,2018PF012644,Logi Cash 20/07/2018,10000,18191998,muskan agarwal,cash,monthly,2018-07-19,paid
+Placio Royal Living,2018PM026643,19743398718,23750,18191691,yuvraj dua,paytm,monthly,2018-07-21,pending
+Placio Royal Living,2018PM026642,N202180590893791,31000,181901573,AMALIYA GUPTA,online,monthly,2018-07-21,pending
+Placio Royal Living,2018PM026641,,5500,181901573,AMALIYA GUPTA,cash,monthly,2018-07-21,pending
+Placio Amy House,2018PM004640,,500,181900182,Viresh Anurag,cash,half-yearly,2018-07-20,pending
+Placio Yash Homes,2018PM021639,,5500,181901354,Himanshu Garg,cash,quarterly,2018-07-06,paid
+Placio Prestige Living,2018PM002638,,5500,18191997,Aditya raj,cash,half-yearly,2018-07-20,pending
+Placio Yash Homes,2018PM021637,423140,45000,181901354,Himanshu Garg,cheque,quarterly,2018-07-12,paid
+Placio Venus,2018PF004636,19763923662,5500,18191996,Saumya singh,paytm,half-yearly,2018-07-20,pending
+Placio Home Care SL02,2018PM018635,216753635967186,5500,18191992,Arka Ruchir Mahanta,online,quarterly,2018-07-21,paid
+Placio Venus,2018PF004634,,5500,18191995,Ayushi agarwal,cash,half-yearly,2018-07-19,pending
+Placio Royal Living,2018PM026630,,21800,18191831,KAPEESH KATHURIA,cash,monthly,2018-07-21,pending
+Placio Divya Homes,2018PF006629,Cash,53500,18191991,Kritika singh,cash,half-yearly,2018-07-20,paid
+Placio Lily,2018PF010628,820112343407,7250,18191775,Kritika Rai,online,monthly,2018-07-21,pending
+Placio Angel Paradise,2018PFI01627,,15000,181901248,NITISHA BANSAL,cash,monthly,2018-07-05,pending
+Placio Imperial Homez,2018PF012623,,32500,181901202,Rachna Kurray,cash,monthly,2018-07-20,pending
+Placio Imperial Homez,2018PF012622,N180180573286005,5500,181901202,Rachna Kurray,online,monthly,2018-06-29,paid
+Placio Princess,2018PFL01621,,15500,18191988,Ms Sakshi Gupta,cash,monthly,2018-07-20,pending
+Placio Divya Homes,2018PF006620,Cash,37000,18191756,Ambika Malhotra,cash,half-yearly,2018-07-20,paid
+Placio Vinayaka 2,2018PMI02618,,6550,18191985,VISHWANATH GURJAR,cash,monthly,2018-07-20,pending
+Placio Imperial Homez,2018PF012617,,21250,181901492,AAKANSHA AGRAWAL,cash,monthly,2018-07-20,pending
+Placio Atlantis Homes,2018PF007616,19760232461,5500,18191983,Namrata sinha,paytm,half-yearly,2018-07-20,paid
+Placio Orchid,2018PF013615,11,24000,181901314,Mansi,cheque,monthly,2018-07-19,pending
+Placio Orchid,2018PF013614,32456,5500,181901314,Mansi,cheque,monthly,2018-06-30,pending
+Placio Atlantis Homes,2018PF007611,PLACIO181901608,59000,181901608,Riya Malra,online,half-yearly,2018-07-20,paid
+Placio Elite Homes,2018PM007610,,500,18191972,deepan.s,cash,half-yearly,2018-07-19,paid
+Placio Orchid,2018PF013609,817818070579,5500,181901148,Navya Dhir,online,monthly,2018-06-27,paid
+Placio Jasmine,2018PF025608,SBIN518200936035,33750,181901143,Shambhavi Singh,online,monthly,2018-07-19,paid
+Placio Jasmine,2018PF025607,,36250,181901137,Rajlakshmi Yein,cash,monthly,2018-07-19,pending
+Placio Jasmine,2018PF025606,SBIN518200906687,33850,181900947,Shristi,online,monthly,2018-07-19,paid
+Placio Jasmine,2018PF025605,62059,33750,181901175,Ananya Mishra,cheque,monthly,2018-07-19,pending
+Placio Jasmine,2018PF025604,10010100459587,35000,181900970,samiksha jain,online,monthly,2018-07-18,paid
+Placio Jasmine,2018PF025602,IMPS00058812839,32500,18191776,Deeksha Mishra,online,monthly,2018-07-18,paid
+Placio Home Care KO-11,2018PM015601,911010037929217,64800,181900924,Sreyash Sharma,online,half-yearly,2018-07-18,paid
+Placio Imperial Homez,2018PF012600,,30500,181901626,ARPITA SINGH,cash,monthly,2018-07-19,pending
+Placio Home Care KO-11,2018PM015598,,5500,181900924,Sreyash Sharma,cash,half-yearly,2018-06-12,paid
+Placio Home Care KO-11,2018PM015597,911010037929217,64800,181900924,Sreyash Sharma,online,half-yearly,2018-06-21,paid
+Placio Jasmine,2018PF025596,18199092804,41994,181901471,kriti,online,monthly,2018-07-18,paid
+Placio Jasmine,2018PF025595,18199067045,27500,18191670,suhasini awasthi,online,monthly,2018-07-18,paid
+Placio Imperial Homez,2018PF012594,,32500,18191847,apurva pandey,cash,monthly,2018-07-19,pending
+Placio Imperial Homez,2018PF012593,Cash,32500,18191846,aradhya pandey,cash,monthly,2018-07-19,paid
+Placio Orchid,2018PF013592,,42000,181901379,Deeksha Chourasiya,cash,monthly,2018-07-19,pending
+Placio Imperial Homez,2018PF012590,83,21000,181901440,kavya jain,cheque,monthly,2018-07-19,pending
+Placio Angel Paradise,2018PFI01589,,13000,181900738,SHIVANI PARIHAR,cash,monthly,2018-06-19,pending
+Placio Angel Paradise,2018PFI01588,,500,181900782,AYUSHI GEDA,cash,monthly,2018-05-08,pending
+Placio Angel Paradise,2018PFI01587,,6750,181900788,NIDHI CHOUHAN,cash,monthly,2018-07-04,pending
+Placio Angel Paradise,2018PFI01585,,5750,181900788,NIDHI CHOUHAN,cash,monthly,2018-06-04,pending
+Placio Angel Paradise,2018PFI01583,,6750,181900787,SIMRAN THAKUR,cash,monthly,2018-07-05,pending
+Placio Angel Paradise,2018PFI01582,,7750,181900787,SIMRAN THAKUR,cash,monthly,2018-06-04,pending
+Placio Angel Paradise,2018PFI01581,,6500,181900776,PARUL DWIVEDI,cash,monthly,2018-06-28,pending
+Placio Angel Paradise,2018PFI01580,,14000,181900775,SHRUTI MISHRA,cash,monthly,2018-07-02,pending
+Placio Angel Paradise,2018PFI01579,,1000,181900774,LATA MOHARE,cash,monthly,2018-06-07,pending
+Placio Angel Paradise,2018PFI01578,,7000,181901127,KANCHAN PATEL,cash,monthly,2018-07-11,pending
+Placio Elite Homes,2018PM007577,,500,181900301,Abhishek kumar roy,cash,half-yearly,2018-07-19,paid
+Placio Angel Paradise,2018PFI01576,,15000,181900910,RIYA PATEL,cash,monthly,2018-06-21,pending
+Placio Elite Homes 2,2018PF003575,,5500,181901610,sarah lalrempuii,cash,half-yearly,2018-07-18,paid
+Placio Angel Paradise,2018PFI01574,,15000,181901127,KANCHAN PATEL,cash,monthly,2018-06-27,pending
+Placio Angel Paradise,2018PFI01573,,15000,181901126,KAJAL PATEL,cash,monthly,2018-06-27,pending
+Placio Angel Paradise,2018PFI01572,,15000,181901217,YASHASVI BHOSALE,cash,monthly,2018-07-01,pending
+Placio Castle,2018PM012571,,5500,181901637,N.K anjay vinod,cash,half-yearly,2018-07-19,paid
+Placio Home Care KO-17,2018PM017570,,5500,18191919,Palash rawat,cash,half-yearly,2018-07-18,paid
+Placio Home Care KO-17,2018PM017569,,5500,181901623,siddharth jain,cash,half-yearly,2018-07-18,paid
+Placio Home Care KO-17,2018PM017568,,5500,18191934,Dhruv pratap singh,cash,half-yearly,2018-07-19,paid
+Placio Orchid,2018PF013567,cash,24750,181901315,Ishita Arhana,cash,monthly,2018-07-19,paid
+Placio Orchid,2018PF013566,2,5000,181901315,Ishita Arhana,cheque,monthly,2018-06-30,pending
+Placio Atlantis Homes,2018PF007565,,5500,181901608,Riya Malra,cash,half-yearly,2018-07-18,paid
+Placio Amy House,2018PM004564,19729735807,5500,181901634,Afros rezaur rahman,paytm,half-yearly,2018-07-18,paid
+Placio Angel Paradise,2018PFI01563,92,6750,181900779,KOPAL SHUKLA,cheque,monthly,2018-07-19,pending
+Placio Amy House,2018PM004562,,150000,181900215,Dipankar Pasricha,cash,half-yearly,2018-07-19,pending
+Placio Amy House,2018PM004561,,56000,181900216,Shubh Jain,cash,half-yearly,2018-07-19,paid
+Placio Jasmine,2018PF025560,,5500,181901175,Ananya Mishra,cash,monthly,2018-06-29,paid
+Placio Marigold,2018PF014559,pay_AaxdoK6jcGGq4n,35000,181901503,Anushree kataria,online,monthly,2018-07-19,paid
+Placio Prestige Living,2018PM002558,,5500,181901621,ashwani chaitanya,cash,half-yearly,2018-07-19,paid
+Placio Lily,2018PF010557,819922821853,31250,18191775,Kritika Rai,online,monthly,2018-07-19,paid
+Placio Home Care KO-17,2018PM017556,,5500,181901618,Anurag verma,cash,half-yearly,2018-07-18,paid
+Placio Imperial Homez,2018PF012555,Logi cash 20/07/2018,11500,181901617,shruti,cash,monthly,2018-07-18,paid
+Placio Imperial Homez,2018PF012554,Logi Cash 20/07/2018,11500,181901616,liza rani,cash,monthly,2018-07-18,paid
+Placio Imperial Homez,2018PF012553,Logi Cash 20/07/2018,16000,181901073,Vijaya Singh,cash,monthly,2018-07-18,paid
+Placio The Grand Castle,2018PM011551,,5500,18191906,syamantak sahu,online,half-yearly,2018-07-16,paid
+Placio Imperial Homez,2018PF012550,19733121522,10500,181901446,Tanishka Verma,paytm,monthly,2018-07-18,paid
+Placio Imperial Homez,2018PF012549,Logi Cash 20/07/2018,20500,181901446,Tanishka Verma,cash,monthly,2018-07-18,paid
+Placio Lily,2018PF010548,,15000,181900867,Shikha Sharma,cash,monthly,2018-07-18,pending
+Placio Lily,2018PF010547,,15000,181900867,Shikha Sharma,cash,monthly,2018-07-18,pending
+Placio Royal Living,2018PM026546,,17000,181901313,UJJAWAL RAJ,cash,monthly,2018-07-18,pending
+Placio Lily,2018PF010544,,5000,18191775,Kritika Rai,cash,monthly,2018-07-18,pending
+Placio Lily,2018PF010543,,5000,181901602,Keshwa,cash,monthly,2018-07-18,pending
+Placio Pinnacle,2018PFL02542,885826,5500,18191611,Nidhi priya,cheque,monthly,2018-07-18,pending
+Placio Princess,2018PFL01540,,15500,18191878,Ms. Riya Kumari,cash,monthly,2018-07-18,pending
+Placio Precious,2018PFL03539,,14500,181901418,Aila Meraj,cash,monthly,2018-07-18,pending
+Placio Princess,2018PFL01538,,15500,18191614,Ms. Priya Yadav,cash,monthly,2018-07-18,pending
+Placio Princess,2018PFL01536,,15500,18191614,Ms. Priya Yadav,cash,monthly,2018-07-18,pending
+Placio Elite Homes,2018PM007535,,500,181901609,savera Dewan,cash,half-yearly,2018-07-18,paid
+Placio Princess,2018PFL01534,,15500,181901429,Ms. Nishtha Tripathi,cash,monthly,2018-07-18,pending
+Placio Princess,2018PFL01533,,15500,18191614,Ms. Priya Yadav,cash,monthly,2018-07-18,pending
+Placio Princess,2018PFL01532,,15500,18191810,Ms. Alia Ansari,cash,monthly,2018-07-18,pending
+Placio Princess,2018PFL01531,,15500,18191844,Ms. Astaria Eka Santi,cash,monthly,2018-07-18,pending
+Placio Shresth Homes,2018PF002530,,5500,18191897,Sanjrita chaudhary,cash,half-yearly,2018-07-18,paid
+Placio Angel Paradise,2018PFI01529,,8000,181901191,Saumya goswami,cash,monthly,2018-07-18,pending
+Placio Princess,2018PFL01528,,135500,18191614,Ms. Priya Yadav,cash,monthly,2018-07-16,pending
+Placio Princess,2018PFL01527,,15500,18191844,Ms. Astaria Eka Santi,cash,monthly,2018-07-16,pending
+Placio Angel Paradise,2018PFI01525,,7000,181900780,JHALAK KAKANI,cash,monthly,2018-07-18,pending
+Placio Angel Paradise,2018PFI01524,,14000,181900780,JHALAK KAKANI,cash,monthly,2018-07-18,pending
+Placio The Grand Castle,2018PM011523,19683643866,5500,181901601,Kabeer Taneja,paytm,half-yearly,2018-07-14,paid
+Placio Angel Paradise,2018PFI01522,,1000,181900780,JHALAK KAKANI,cash,monthly,2018-07-18,pending
+Placio Amy House,2018PM004521,,5500,181900216,Shubh Jain,cash,half-yearly,2018-07-15,paid
+Placio Prestige Living,2018PM002518,,19500,181900940,Molik,cash,quarterly,2018-07-18,paid
+Placio Prestige Living,2018PM002517,,24500,18191875,Abhay Pratap Singh,cash,monthly,2018-07-17,paid
+Placio Prime Living,2018PM003516,,5500,18191879,HA Gumbu,cash,quarterly,2018-07-16,paid
+Placio Half Penny Residency,2018PF030515,,5500,181901600,VAIBHAV SINGH,cash,yearly,2018-07-17,paid
+Placio Imperial Homez,2018PF012513,,12625,181901563,Nancy Ray,cash,monthly,2018-07-17,pending
+Placio Imperial Homez,2018PF012512,Logi Cash 20/07/2018,13830,181901599,ridhima jain,cash,monthly,2018-07-17,paid
+Placio Angel Paradise,2018PFI01511,,14500,181901578,Humera Anjum,cheque,monthly,2018-07-17,pending
+Placio Ashoka Inn,2018PM024509,IRG9709599,10000,181901149,SHIVASHISH VISHWAKARMA,online,monthly,2018-07-17,paid
+Placio Lily,2018PF010507,818521962528,15000,181900871,R Liveniya,online,monthly,2018-07-16,pending
+Placio Lily,2018PF010506,,14000,181900598,Ayushi Uttam,cash,monthly,2018-07-16,pending
+Placio Lily,2018PF010505,,14000,181901220,Effat Fatima,cash,monthly,2018-07-16,pending
+Placio Lily,2018PF010503,SBIN318185530823,13500,181900869,Simran Verma,online,monthly,2018-07-16,pending
+Placio Lily,2018PF010502,,14000,181901256,Rachita Kundra,cash,monthly,2018-07-16,pending
+Placio Lily,2018PF010501,,14500,181901183,MS. DAMINI KHURANA,cash,monthly,2018-07-16,pending
+Placio Lily,2018PF010500,818716968309,14000,181900579,Rakshanda Pande,online,monthly,2018-07-16,paid
+Placio Lily,2018PF010499,819109367166,5500,18191727,Shivali,online,monthly,2018-07-16,paid
+Placio Imperial Homez,2018PF012498,,5500,181901563,Nancy Ray,cash,monthly,2018-07-07,pending
+Placio Imperial Homez,2018PF012495,,5500,18191847,apurva pandey,card,monthly,2018-07-19,pending
+Placio Imperial Homez,2018PF012494,Cash,5500,18191846,aradhya pandey,card,monthly,2018-07-16,paid
+Placio Imperial Homez,2018PF012487,19698123850,5500,181901552,wagisha,paytm,monthly,2018-07-15,paid
+Placio Lily,2018PF010485,,5500,18191580,Priyanka,cash,monthly,2018-07-16,pending
+Placio Lily,2018PF010484,819614309462,15700,18191580,Priyanka,online,monthly,2018-07-16,paid
+Placio Lily,2018PF010483,,7000,18191789,Vijayant Khalkho,cash,monthly,2018-07-16,pending
+Placio Lily,2018PF010482,,500,18191789,Vijayant Khalkho,cash,monthly,2018-07-16,paid
+Placio Pride Stay,2018PM025481,,4500,181901457,VISHESH SINGH,cash,monthly,2018-07-16,pending
+Placio Exotic Living,2018PF032480,,5500,181901514,VIDHI,cash,monthly,2018-07-15,pending
+Placio Exotic Living,2018PF032479,,5500,181901539,Archie,cash,monthly,2018-07-15,pending
+Placio Exotic Living,2018PF032478,,5500,181901538,manu shree,cash,monthly,2018-07-15,pending
+Placio Exotic Living,2018PF032477,,5500,181901537,yashika,cash,monthly,2018-07-15,pending
+Placio Exotic Living,2018PF032476,19599839526,11000,181901536,akshita gupta,paytm,monthly,2018-07-15,pending
+Placio Exotic Living,2018PF032475,818914629265,5500,181901535,KHUSI KANODIA,paytm,monthly,2018-07-15,pending
+Placio Exotic Living,2018PF032474,,5500,18191807,Radhika Bansal,cash,monthly,2018-07-15,pending
+Placio Exotic Living,2018PF032473,,5500,181901141,Srinka Ghose,cash,monthly,2018-07-15,pending
+Placio Half Penny Residency,2018PF030472,,35000,18191790,Akash Bhati,cash,monthly,2018-07-15,pending
+Placio Imperial Homez,2018PF012471,UBINH18194504140,17000,181900902,Nalini Narang,online,,2018-07-13,paid
+Placio Imperial Homez,2018PF012470,,5500,181901531,YUKTA LAL,card,monthly,2018-07-15,pending
+Placio Imperial Homez,2018PF012469,AZBbV66fXW7QdL,3000,181901530,AHANA GANGULY,online,monthly,2018-07-14,pending
+Placio Orchid,2018PF013468,,5000,181901150,Ishika Gupta,cash,monthly,2018-07-15,pending
+Placio Imperial Homez,2018PF012466,,500,181901497,VEDIKA NARULA,cash,monthly,2018-07-15,pending
+Placio Imperial Homez,2018PF012465,817116499260,11000,181900682,Meenu Singh,online,monthly,2018-07-11,pending
+Placio Imperial Homez,2018PF012464,lOGI cASH 20/07/2018,8500,181900691,Shivani Tyagi,cash,monthly,2018-07-15,paid
+Placio Imperial Homez,2018PF012463,IRG9854602,9500,181900685,Pranzali Gupta,online,monthly,2018-07-10,pending
+Placio JP House,2018PM013462,,NaN,181901268,SIDDHARTH PANDEY,cash,monthly,2018-07-04,pending
+Placio JP House,2018PM013461,,7000,181901364,UTSAV PRABHAT SAXENA,cash,monthly,2018-07-04,pending
+Placio JP House,2018PM013460,,7000,18191573,ABHAY SIDDHANTH,cash,monthly,2018-07-04,pending
+Placio JP House,2018PM013459,,9000,181901107,VAIBHAV MITRAKA,cash,monthly,2018-07-04,pending
+Placio JP House,2018PM013458,,8000,181900818,VARUN VINAYAK,cash,,2018-07-03,pending
+Placio JP House,2018PM013457,,8000,181900803,NITIN AGGARWAL,cash,,2018-07-03,pending
+Placio JP House,2018PM013456,,7500,181900638,Abhishek Sonkar,cash,monthly,2018-07-03,pending
+Placio JP House,2018PM013455,,8000,181900804,AKASH TATER,cash,,2018-07-02,pending
+Placio JP House,2018PM013454,,10000,181900801,SAMARTH GUPTA,cash,,2018-07-02,pending
+Placio JP House,2018PM013453,,8600,181900821,VINEET MITTAL,cash,,2018-07-02,pending
+Placio Ashoka Inn,2018PM024450,,500,18191787,AARYAN RAJ,cash,monthly,2018-07-14,pending
+Placio Divya Homes,2018PF006449,,60000,181900047,nimmi choudhary,cash,half-yearly,2018-07-14,paid
+Placio JP House,2018PM013444,,4000,181900828,ABHISHEK KUKKAR,cash,,2018-07-02,pending
+Placio Ashoka Inn,2018PM024443,,5500,181901509,ABHIJIT G KURUP,cash,monthly,2018-07-14,pending
+Placio Divya Homes,2018PF006442,,5500,18191758,Ahuja Raveena,cash,half-yearly,2018-07-12,paid
+Placio Divya Homes,2018PF006441,,5500,18191756,Ambika Malhotra,cash,half-yearly,2018-07-12,paid
+Placio Crystal Homez,2018PF034440,,5500,181901508,PRAGYA GOEL,cash,monthly,2018-07-14,pending
+Placio Crystal Homez,2018PF034439,,5500,181901506,KOPAL AGARWAL,cash,monthly,2018-07-14,pending
+Placio Crystal Homez,2018PF034438,,5500,18191762,RIDHI,cash,monthly,2018-07-14,pending
+Placio Orchid,2018PF013437,19546964141,8400,181901333,Tanishqua Kanetkar,paytm,monthly,2018-07-04,pending
+Placio Orchid,2018PF013436,NEFT,8400,181901332,Honey Vijayvargiya,online,monthly,2018-07-04,paid
+Placio Orchid,2018PF013435,UPI,10000,181901379,Deeksha Chourasiya,online,monthly,2018-07-08,pending
+Placio JP House,2018PM013434,,7500,181900625,Mohit Gupta,cash,monthly,2018-07-01,pending
+Placio Orchid,2018PF013433,,5000,181901250,sohini dutta,cash,,2018-07-02,pending
+Placio Orchid,2018PF013432,,5000,181901249,swastika panda,cash,monthly,2018-07-02,pending
+Placio Orchid,2018PF013430,817818070579,5500,181901147,Samyak Sharma,online,monthly,2018-06-27,paid
+Placio JP House,2018PM013427,,8000,181900797,ABHISHEK PATHAK,cash,monthly,2018-07-01,paid
+Placio Orchid,2018PF013425,819318181192,16000,181901404,RICHA SHARMA,online,monthly,2018-07-12,paid
+Placio Orchid,2018PF013424,AX8Yk4NfrsMA9g,5500,181901404,RICHA SHARMA,online,monthly,2018-07-09,paid
+Placio Orchid,2018PF013423,N192180583768846,11000,181901404,RICHA SHARMA,online,monthly,2018-07-11,paid
+Placio Imperial Homez,2018PF012422,Logi Cash 20/07/2018,3000,181901492,AAKANSHA AGRAWAL,cash,monthly,2018-07-13,paid
+Placio Home Care KO-11,2018PM015421,,48000,181901112,Naman Agrawal,cash,,2018-07-12,paid
+Bird House 1,2018419,,5000,181901472,garima,cash,monthly,2018-07-04,pending
+Placio Yash Homes,2018PM021418,,25000,18191538,Tanmay Agarwal,cash,half-yearly,2018-07-12,paid
+Placio Yash Homes,2018PM021417,,5500,18191538,Tanmay Agarwal,cash,half-yearly,2018-07-05,paid
+Placio Yash Homes,2018PM021416,,50000,18191539,Pulkit Agarwal,cash,half-yearly,2018-07-12,paid
+Placio Yash Homes,2018PM021415,,5500,18191539,Pulkit Agarwal,cash,half-yearly,2018-07-05,paid
+Placio Shresth Homes,2018PF002414,,96000,181901130,Aanchal Sharma,cash,half-yearly,2018-07-12,paid
+Placio Ashoka Inn,2018PM024410,,36000,181901288,VISHAL SHARMA,cash,monthly,2018-07-13,pending
+Placio RG Niwas,2018PF009409,,5250,18191742,TANVI TYAGI,cash,monthly,2018-07-12,pending
+Placio Angel Town,2018PF011408,,8000,181900555,Varsha Singh,cash,monthly,2018-07-12,pending
+Placio JP House,2018PM013407,,16500,181901363,MOHIT KANSAL,cash,monthly,2018-07-12,pending
+Placio Oasis 4,2018PF023406,,4000,181901234,Akriti Jamwal,cash,,2018-07-02,pending
+Placio Jasmine,2018PF025404,,5500,181901261,Seerat Sekhon,cash,monthly,2018-07-11,pending
+Placio Jasmine,2018PF025403,,5000,181901473,prerna singh,cash,monthly,2018-07-11,pending
+Placio Jasmine,2018PF025402,,5500,181901239,Pahul kaur,cash,monthly,2018-07-11,pending
+Placio Jasmine,2018PF025401,,5500,181901273,Lipsa Badu,cash,monthly,2018-07-11,pending
+Placio Prestige Living,2018PM002399,19591793267,5500,181901400,Sarabjeet Singh,paytm,quarterly,2018-07-07,paid
+Placio Prestige Living,2018PM002398,19591793267,5500,181901401,Ashutosh Singh,paytm,quarterly,2018-07-07,paid
+Placio Jasmine,2018PF025397,,5000,18191710,Ananya Singh,cash,monthly,2018-07-11,pending
+Placio Prestige Living,2018PM002392,,13000,18191599,Shivam Agrawal,cash,quarterly,2018-07-07,paid
+Placio Prestige Living,2018PM002391,,5500,18191599,Shivam Agrawal,cash,quarterly,2018-07-07,paid
+Placio Prestige Living,2018PM002390,,5500,181901428,Hitesh Madhyan,cash,quarterly,2018-07-11,paid
+Placio Prestige Living,2018PM002389,,500,181901353,Thoudam Peter Singh,cash,quarterly,2018-07-06,paid
+Placio RG Niwas,2018PF009387,,5326,18191686,ROOPAM,cash,monthly,2018-07-12,pending
+Placio Prestige Living,2018PM002386,,5500,181901391,Nihal Kumar Singh,cash,quarterly,2018-07-09,paid
+Placio Pride Stay,2018PM025384,,5500,18191693,BHAVANI SINGH,cash,monthly,2018-07-12,pending
+Placio Pride Stay,2018PM025382,M13316,10000,181901325,AARYAV ANAND,online,monthly,2018-07-12,pending
+Placio Pride Stay,2018PM025381,,1000,181901457,VISHESH SINGH,cash,monthly,2018-07-12,pending
+Placio JP House,2018PM013380,,20500,181901365,RANJAN VERMA,cash,monthly,2018-07-01,pending
+Placio Royal Living,2018PM026379,19651221066,5500,18191691,yuvraj dua,paytm,monthly,2018-07-12,pending
+Placio Angel Town,2018PF011378,,24500,181901455,Akansha Pani,cash,monthly,2018-07-11,pending
+Placio Royal Living,2018PM026377,19638029454,5500,181901442,BHUPENDRA SINGH RAJPOOT,paytm,monthly,2018-07-12,pending
+Placio Angel Town,2018PF011376,,8000,181900555,Varsha Singh,cash,monthly,2018-07-12,pending
+Placio Imperial Homez,2018PF012374,,9000,181901445,Harpreet Kaur,cash,monthly,2018-07-12,pending
+Placio Imperial Homez,2018PF012373,,11000,181901444,Nayanja Khulbe,online,monthly,2018-07-12,pending
+Placio Royal Living,2018PM026372,19618522872,5500,181901443,SABYASACHI ROY,paytm,monthly,2018-07-11,pending
+Placio Royal Living,2018PM026371,,5500,181901383,YASH NAKHAT,cash,monthly,2018-07-11,pending
+Placio Royal Living,2018PM026370,,5500,181901441,PALLAV SHRIVASTAVA,cash,monthly,2018-07-11,pending
+Placio Precious,2018PFL03369,,5500,181901418,Aila Meraj,cash,monthly,2018-07-11,pending
+Placio Oasis 4,2018PF023366,,6000,18191535,kirti bhatia,cash,monthly,2018-07-04,paid
+Placio Oasis 4,2018PF023365,,1000,181901240,Nikita saini,cash,,2018-07-02,paid
+Placio Oasis 4,2018PF023364,,5500,181901241,shruti,cash,,2018-07-02,paid
+Placio Oasis 4,2018PF023363,,5500,181901242,shalu yadav,cash,,2018-07-02,paid
+Placio Angel Town,2018PF011362,Online ID:- 819115183800,10500,181900698,Jiya Bajaj,paytm,monthly,2018-07-10,pending
+Placio Oasis 4,2018PF023361,,5500,181901255,Smile garg,cash,monthly,2018-07-02,paid
+Placio Oasis 4,2018PF023360,,6000,181901164,Shilpa Arya,cash,,2018-06-29,paid
+Placio Orchid,2018PF013358,,5000,181900864,Sharon Verma,cash,monthly,2018-07-04,paid
+Placio Angel Town,2018PF011357,,8500,181900566,Kiran,cash,monthly,2018-07-10,pending
+Placio Marigold,2018PF014356,,40000,181901305,palak singhal,cash,,2018-07-04,paid
+Placio Marigold,2018PF014355,,5500,181901307,kalash singhal,cash,monthly,2018-07-03,paid
+Placio Garima PG,2018PF024354,,5500,181901165,Muskan Jaiswal,cash,monthly,2018-06-29,paid
+Placio Jasmine,2018PF025353,,2500,181901370,Priyanshu,cash,monthly,2018-07-07,paid
+Placio Jasmine,2018PF025352,,5500,181901159,Ayushi Kumari,cash,monthly,2018-06-29,paid
+Placio Jasmine,2018PF025348,,5500,181901143,Shambhavi Singh,cash,monthly,2018-06-29,paid
+Placio Jasmine,2018PF025347,,5500,181901120,Palak Agarwal,cash,monthly,2018-06-29,paid
+Placio Oasis 1,2018PM023345,,10000,181901253,Rahul vig,cash,,2018-07-02,paid
+Placio Oasis 1,2018PM023343,,38500,181901232,Sujal Tater,cash,,2018-07-02,pending
+Placio Oasis 5,2018PM027342,,25000,181901423,Vishw Akhani,cash,monthly,2018-07-11,pending
+Placio Oasis 1,2018PM023341,,5500,181901169,Pranav Raj,cash,monthly,2018-06-29,pending
+Placio Oasis 5,2018PM027340,,6500,181901246,Yash bharadwaj,cash,,2018-07-02,paid
+Placio Oasis 5,2018PM027339,,13000,181901238,akash,cash,monthly,2018-07-02,paid
+Placio Oasis 5,2018PM027338,,43000,181901304,Aarav verma,cash,,2018-07-05,paid
+Placio Oasis 5,2018PM027337,,3500,181901304,Aarav verma,cash,,2018-07-04,paid
+Placio AK Mansion,2018PMI03336,,12850,181901419,Lucky Sharma,cash,monthly,2018-07-10,pending
+Placio Imperial Homez,2018PF012335,RRN :819215794662,7000,181901350,AAKANSHA MISHRA,online,monthly,2018-07-10,paid
+Placio Imperial Homez,2018PF012334,819117674707,25000,181901343,NUPUR SINHA,online,monthly,2018-07-10,paid
+Placio Oasis 4,2018PF023331,,1000,181901240,Nikita saini,cash,,2018-07-01,pending
+Placio Oasis 4,2018PF023330,,5500,181901241,shruti,cash,,2018-07-01,pending
+Placio Orchid,2018PF013329,IMPS,5500,181901145,Naga Lavanya Desiraju,online,monthly,2018-06-26,pending
+Placio Oasis 4,2018PF023328,,5500,181901242,shalu yadav,cash,,2018-07-01,pending
+Placio Oasis 4,2018PF023327,,5500,181901255,Smile garg,cash,monthly,2018-07-01,pending
+Placio Orchid,2018PF013326,,5000,181900864,Sharon Verma,cash,monthly,2018-06-20,pending
+Placio Oasis 4,2018PF023325,,6000,181901164,Shilpa Arya,cash,,2018-06-30,pending
+Placio Imperial Homez,2018PF012323,,5500,181901402,Danish Aslam,online,monthly,2018-07-09,pending
+Placio Royal Living,2018PM026322,,5500,181901381,EKLAVYA SINGH,cash,monthly,2018-07-09,pending
+Placio Imperial Homez,2018PF012321,,24000,181901210,RUCHI SINGH,cash,monthly,2018-07-09,pending
+Placio Imperial Homez,2018PF012320,,9500,181901385,Alisha Rana,cash,monthly,2018-07-08,pending
+Placio Royal Living,2018PM026318,,5500,181901377,ROHIT JAIN,cash,monthly,2018-07-08,pending
+Placio Imperial Homez,2018PF012317,,2500,181901376,Anjali Sharma,cash,monthly,2018-07-08,pending
+Placio Imperial Homez,2018PF012316,,2500,18191588,Sakshi Sharma,cash,monthly,2018-07-08,pending
+Placio Angel Town,2018PF011309,19589334335,13000,18191581,VARSHA SINGH,paytm,monthly,2018-07-07,pending
+Placio Angel Town,2018PF011308,824175,17000,181901366,ANSHIKA SHARMA,cheque,monthly,2018-07-02,pending
+Placio Angel Town,2018PF011307,,7500,181900886,SHWETA SINGH,cash,monthly,2018-07-05,pending
+Placio Angel Town,2018PF011306,10851513395,14000,181900876,KARISHMA SRIVASTAVA,online,monthly,2018-07-02,pending
+Placio Angel Town,2018PF011305,,9000,181900562,Priya,cash,monthly,2018-07-06,pending
+Placio Angel Town,2018PF011304,19561735109,12500,181900882,TAMANNA JOSHI,online,monthly,2018-07-06,pending
+Placio Imperial Homez,2018PF012303,,24000,181901359,Surabhi Sharma,cash,monthly,2018-07-07,pending
+Placio Imperial Homez,2018PF012302,,5500,181901355,shruti sargam,cash,monthly,2018-07-07,pending
+Placio Angel Town,2018PF011301,,8500,181900565,Geeta Joshi,cash,monthly,2018-07-06,pending
+Placio Angel Town,2018PF011300,19561735109,12500,181901203,Gitanshi,paytm,,2018-07-06,pending
+Placio Pride Stay,2018PM025299,,2000,181901346,ANUJ PRAJAPATI,cash,monthly,2018-07-06,pending
+Placio Imperial Homez,2018PF012298,Avv87waGS9y5az,5500,181901345,MANSI RAHI,online,monthly,2018-07-06,paid
+Placio Imperial Homez,2018PF012297,pay_AVulq5SChaOz3L,5500,181901343,NUPUR SINHA,online,monthly,2018-07-06,paid
+Placio Prime Living,2018PM003289,"211070869,814914445120",42000,181900431,Somaan Ahmad Khan,online,quarterly,2018-07-05,paid
+Placio Royal Living,2018PM026288,QR703C800ECD6DD7A5,5500,181901331,VIDIT BHAT,paytm,monthly,2018-07-05,pending
+Placio Home Care KO-17,2018PM017287,,21500,181901222,Lakshya Siddheswar Pandey,cash,quarterly,2018-07-05,paid
+Placio Angel Town,2018PF011286,,14000,181900878,HIMANI SINGHAL,cash,monthly,2018-07-05,pending
+Placio Crystal Homez,2018PF034285,818315715893,5500,181901309,MUSKAN,online,monthly,2018-07-05,pending
+Placio Crystal Homez,2018PF034284,19516908672,5500,181901310,SAKSHI,paytm,monthly,2018-07-05,pending
+Placio Crystal Homez,2018PF034282,,5500,181901278,Tushika,cash,monthly,2018-07-05,pending
+Placio Imperial Homez,2018PF012281,,11000,181901281,Astha Gupta,cash,monthly,2018-07-05,pending
+Placio Imperial Homez,2018PF012280,19532458353,24500,181901189,Ritika Bhat,paytm,monthly,2018-07-05,paid
+Placio Prime Living,2018PM003279,608486,37500,181900425,Satya Prakash jha,cheque,quarterly,2018-07-05,pending
+Placio Prime Living,2018PM003278,,75000,181900425,Satya Prakash jha,cash,quarterly,2018-07-05,pending
+Placio Imperial Homez,2018PF012277,,22500,181901100,Dipannita Singh,cash,,2018-07-05,pending
+Placio The Grand Castle,2018PM011276,,77500,181900485,Kabir Bahl,cash,half-yearly,2018-07-05,pending
+Placio Divya Homes,2018PF006275,,133500,181900758,SHRINGARIKA RAJ SINGH,cash,half-yearly,2018-07-05,pending
+Placio Crystal Homez,2018PF034274,127,5000,181901277,Kashish Gupta,cheque,monthly,2018-07-05,pending
+Placio Pavillion,2018PM008273,786,108000,181900748,Raj Gaurav,cheque,half-yearly,2018-07-05,pending
+Placio Venus,2018PF004272,18,84000,181900265,Ananya Sharma,cheque,half-yearly,2018-07-05,pending
+Placio Pavillion,2018PM008271,947207,108000,181900749,Rishi Raj Raman,cheque,half-yearly,2018-07-05,pending
+Placio Admire Homes,2018PM006270,29200,56000,181901124,Kartikey Soni,cheque,quarterly,2018-07-05,pending
+Placio Admire Homes,2018PM006269,99775,56000,181901124,Kartikey Soni,cheque,quarterly,2018-07-05,pending
+Placio Yash Homes,2018PM021268,190704,96000,181901129,Charitarth Sindhu,cheque,half-yearly,2018-07-05,pending
+Placio Shresth Homes,2018PF002267,842570,48000,181900846,SHAJAL SILAS,cheque,half-yearly,2018-07-05,pending
+Placio Shresth Homes,2018PF002266,842572,16000,181900846,SHAJAL SILAS,cheque,half-yearly,2018-07-05,pending
+Placio Shresth Homes,2018PF002265,842573,16000,181900846,SHAJAL SILAS,cheque,half-yearly,2018-07-05,pending
+Placio Pavillion,2018PM008264,449714,88000,181900370,Gautam Sharma,cheque,,2018-07-05,pending
+Placio Pavillion,2018PM008263,449713,88000,181900370,Gautam Sharma,cheque,,2018-07-05,pending
+Placio Divya Homes,2018PF006262,534490,45000,181900758,SHRINGARIKA RAJ SINGH,cheque,half-yearly,2018-07-05,pending
+Placio Divya Homes,2018PF006261,534489,90000,181900758,SHRINGARIKA RAJ SINGH,cheque,half-yearly,2018-07-05,pending
+Placio The Grand Castle,2018PM011260,92833,60000,181900485,Kabir Bahl,cheque,half-yearly,2018-07-05,paid
+Placio The Grand Castle,2018PM011259,92834,60000,181900485,Kabir Bahl,cheque,half-yearly,2018-12-01,paid
+Placio Lily,2018PF010253,PUNBH18177771418,9000,18191505,Simran Gupta,online,monthly,2018-06-26,paid
+Placio Amy House,2018PM004252,,96000,181900201,Rajkumar patel,online,quarterly,2018-06-29,pending
+Placio Shresth Homes,2018PF002251,,5500,181901260,sulagna kaushik,cash,,2018-07-02,paid
+Placio Shresth Homes,2018PF002250,,72000,181901260,sulagna kaushik,cash,,2018-07-02,paid
+Placio Shresth Homes,2018PF002249,842569,48000,181900846,SHAJAL SILAS,cheque,half-yearly,2018-06-30,paid
+Placio Shresth Homes,2018PF002248,,5500,181900846,SHAJAL SILAS,cash,half-yearly,2018-06-29,paid
+Placio Pavillion,2018PM008247,,54000,181900751,Madhav Katarya,cheque,half-yearly,2018-06-22,paid
+Placio Pavillion,2018PM008246,,88500,181900370,Gautam Sharma,cheque,,2018-06-28,paid
+Placio Venus,2018PF004245,,5500,181900040,Kaifee Madar,cash,half-yearly,2018-07-04,paid
+Placio Home Care KO-17,2018PM017244,544680,5500,18191485,Sahil Sakhuja,cheque,half-yearly,2018-07-04,paid
+Placio Home Care SL02,2018PM018243,,5500,181901294,Yash Vardhan Agrawal,cash,half-yearly,2018-07-04,paid
+Placio Divya Homes,2018PF006242,19488408292,5500,181901221,Anusha Vempaty,paytm,quarterly,2018-06-30,paid
+Placio Divya Homes,2018PF006241,,45000,181900758,SHRINGARIKA RAJ SINGH,cheque,half-yearly,2018-06-22,paid
+Placio Elite Homes,2018PM007240,PM007103B,65000,181900740,Nehil Sharma,online,half-yearly,2018-06-11,paid
+Placio Elite Homes,2018PM007239,19361,120000,181900745,Chaitanya Nagpal,cheque,half-yearly,2018-06-30,paid
+Placio Home Care KO-17,2018PM017238,19513461939,5500,181901245,Mohit Kumar,paytm,half-yearly,2018-07-02,paid
+Placio Lily,2018PF010237,,500,181900871,R Liveniya,cash,monthly,2018-06-06,paid
+Placio Lily,2018PF010236,,30000,181900871,R Liveniya,cash,monthly,2018-06-06,paid
+Placio Lily,2018PF010235,,14000,181900598,Ayushi Uttam,cash,monthly,2018-06-14,paid
+Placio Lily,2018PF010234,,14000,181900605,Shivani Raghuvanshi,cash,,2018-06-04,paid
+Placio Lily,2018PF010233,PF010107A,50000,181900863,Prachi Agarwal,online,monthly,2018-06-30,paid
+Placio Lily,2018PF010228,815707874846,12000,181900579,Rakshanda Pande,online,monthly,2018-06-30,paid
+Placio Angel Town,2018PF011227,,22100,181900878,HIMANI SINGHAL,cash,monthly,2018-06-05,paid
+Placio AK Mansion,2018PMI03219,,5500,181900840,DEEPNARAN YADAV,cash,monthly,2018-06-25,paid
+Placio AK Mansion,2018PMI03217,,5500,181900837,ANKIT SINGH YADAV,cash,monthly,2018-06-30,paid
+Placio Vinayaka,2018PMI01215,,4000,181900836,VICKY GHETE,cash,monthly,2018-06-25,paid
+Placio Angel Paradise,2018PFI01213,,14000,181900781,MONIKA CHATURVEDI,cash,monthly,2018-06-25,paid
+Placio Angel Paradise,2018PFI01211,,85000,181901217,YASHASVI BHOSALE,cash,monthly,2018-06-30,pending
+Placio Angel Town,2018PF011209,815515398118,11495,181900875,DAKSHATA VERMA,online,monthly,2018-06-04,paid
+Placio Vinayaka 2,2018PMI02208,,10000,181900991,PAVITRA PARASHAR,cash,monthly,2018-06-14,paid
+Placio AK Mansion,2018PMI03207,817763788439,11600,181900942,PRAVESH BHUDANWALA,online,monthly,2018-06-26,paid
+Placio Angel Town,2018PF011203,,17500,181900874,ANAGHA S DESHPANDE,cash,monthly,2018-06-01,paid
+Placio Angel Town,2018PF011202,817214539039,9700,181900880,VAISHNAVI KUMARI,online,monthly,2018-06-21,paid
+Placio Divya Homes,2018PF006201,,500,181900755,GAZAL SHARMA,cash,half-yearly,2018-06-16,paid
+Placio Angel Town,2018PF011200,,500,181900880,VAISHNAVI KUMARI,cash,monthly,2018-06-05,paid
+Placio Angel Town,2018PF011199,815621369357,10250,181900880,VAISHNAVI KUMARI,online,monthly,2018-06-05,paid
+Placio Divya Homes,2018PF006197,,500,181900753,YASHASWI RAJPOOT,cash,half-yearly,2018-06-16,paid
+Placio Divya Homes,2018PF006196,,64000,181900753,YASHASWI RAJPOOT,cash,half-yearly,2018-06-16,paid
+Placio Divya Homes,2018PF006194,,5500,181901132,Suamreilliu Kamel,cash,half-yearly,2018-06-26,paid
+Placio Divya Homes,2018PF006193,,5500,181901133,Leimayon Laishram,cash,half-yearly,2018-06-27,paid
+Placio Angel Town,2018PF011192,,9700,181900879,REMY KUMARI,cash,monthly,2018-06-21,paid
+Placio Angel Town,2018PF011191,,500,181900879,REMY KUMARI,cash,monthly,2018-06-05,paid
+Placio Divya Homes,2018PF006190,,5500,181901180,Glory Narzihary,cash,half-yearly,2018-06-29,paid
+Placio Angel Town,2018PF011189,815621369357,10250,181900879,REMY KUMARI,online,monthly,2018-06-05,paid
+Placio Vinayaka 2,2018PMI02187,,5000,181901059,DHANANJAY GURJAR,cash,monthly,2018-06-01,paid
+Placio Venus,2018PF004186,SBIN418176414257,43200,181900899,MEGHA TRIVEDY,online,half-yearly,2018-06-25,paid
+Placio Venus,2018PF004185,,5500,181900899,MEGHA TRIVEDY,cash,half-yearly,2018-06-15,paid
+Placio Vinayaka 2,2018PMI02184,,3000,181900993,PRATEEK PATEL,cash,monthly,2018-06-25,paid
+Placio Venus,2018PF004183,,5500,181900896,Puja Agarwal,cash,half-yearly,2018-05-05,paid
+Placio Vinayaka 2,2018PMI02182,,2000,181900969,SATENDRA SINGH GURJAR,cash,monthly,2018-06-07,paid
+Placio Venus,2018PF004181,SAA136705258,36000,181900895,Sabi Agarwal,online,half-yearly,2018-06-12,paid
+Placio Angel Town,2018PF011180,PF011201A,21000,181900877,VANSHIKA GUPTA,online,monthly,2018-06-05,paid
+Placio Vinayaka 2,2018PMI02179,,7000,181900988,ADITYA BANERJEE,cash,monthly,2018-06-25,paid
+Placio Venus,2018PF004178,,5500,181900895,Sabi Agarwal,cash,half-yearly,2018-05-05,paid
+Placio Vinayaka 2,2018PMI02177,,13700,181900989,AMIT BANERJEE,cash,monthly,2018-06-11,paid
+Placio Angel Town,2018PF011176,815308047890,9000,181900881,AVANTIKA SRIVASTAVA,online,monthly,2018-06-02,paid
+Placio Angel Town,2018PF011174,,28000,181900785,MUSKAN MAKHIJA,cash,monthly,2018-06-25,paid
+Placio Elite Homes,2018PM007173,,5500,181900745,Chaitanya Nagpal,cash,half-yearly,2018-05-01,paid
+Placio Elite Homes,2018PM007172,,5500,181900739,Garvit Dhariwal,cash,half-yearly,2018-05-07,paid
+Placio Elite Homes,2018PM007171,,5500,181900740,Nehil Sharma,cash,half-yearly,2018-05-07,paid
+Placio Elite Homes,2018PM007170,,500,181901069,Tanmay Agarwal,cash,half-yearly,2018-06-23,paid
+Placio Elite Homes,2018PM007169,,500,181901076,Shivang Arora,cash,half-yearly,2018-06-26,paid
+Placio Elite Homes,2018PM007168,,5500,181900524,Rishabh Rajain,cash,half-yearly,2018-04-12,paid
+Placio AK Mansion,2018PMI03167,,6800,181900944,AVTAR SINGH DODIYA,cash,monthly,2018-06-19,paid
+Placio AK Mansion,2018PMI03165,,1000,181900945,SURAJ PATIDAR,cash,monthly,2018-06-19,paid
+Placio AK Mansion,2018PMI03164,,6050,181900945,SURAJ PATIDAR,cash,monthly,2018-06-14,paid
+Placio AK Mansion,2018PMI03163,,250,181900943,SURAJ PATEL,cash,monthly,2018-06-19,paid
+Placio AK Mansion,2018PMI03162,,11100,181900943,SURAJ PATEL,cash,monthly,2018-06-14,paid
+Placio Lily,2018PF010161,,14000,181900579,Rakshanda Pande,cash,monthly,2018-06-06,paid
+Placio AK Mansion,2018PMI03160,,26000,181900860,MAYANK PATHAK,cash,monthly,2018-06-19,paid
+Placio AK Mansion,2018PMI03159,,4000,181900860,MAYANK PATHAK,cash,monthly,2018-06-07,paid
+Placio Elite Homes,2018PM007158,135759002,5500,181900743,Vaibhav Lohia,online,half-yearly,2018-06-13,paid
+Placio Elite Homes,2018PM007157,AXIR181522092215,3500,181900741,Pranjal Agarwal,online,half-yearly,2018-06-01,paid
+Placio Elite Homes,2018PM007156,MAHBH18176150106,70000,181900746,Nisanth es,online,half-yearly,2018-06-26,paid
+Placio Elite Homes,2018PM007155,MAHBH18176150106,50000,181900746,Nisanth es,online,half-yearly,2018-06-25,paid
+Placio Elite Homes,2018PM007154,P1806152808862,120000,181900744,R.K Bhavish,online,half-yearly,2018-06-01,paid
+Placio Elite Homes,2018PM007153,N149180550394897,120000,181900128,apoorv khosla,online,half-yearly,2018-05-29,paid
+Placio Elite Homes,2018PM007152,,63000,181900739,Garvit Dhariwal,online,half-yearly,2018-06-04,paid
+Placio Elite Homes,2018PM007151,,50000,181900145,Ashim Singla,online,half-yearly,2018-06-05,paid
+Placio Elite Homes,2018PM007150,,120000,181900123,Harkirat Singh,online,half-yearly,2018-05-31,paid
+Placio The Nest-Venus 2,2018PM009149,,5500,181901151,Mirdyutpol Mahanta,cash,half-yearly,2018-06-29,paid
+Placio Elite Homes,2018PM007148,N151180551623114,120000,181900112,Karthik Agarwal,online,half-yearly,2018-06-02,paid
+Placio AK Mansion,2018PMI03147,,5500,181900858,SHIVANSH SINGH,cash,monthly,2018-06-21,paid
+Placio AK Mansion,2018PMI03146,,5500,181900856,ANKIT SINGH JADON,cash,monthly,2018-06-21,paid
+Placio AK Mansion,2018PMI03145,,5500,181900859,VISHAL SHARMA,cash,monthly,2018-06-19,paid
+Placio AK Mansion,2018PMI03144,,6000,181900859,VISHAL SHARMA,cash,monthly,2018-05-24,paid
+Placio AK Mansion,2018PMI03143,,11000,181900855,ADITYA GEDA,cash,monthly,2018-06-14,paid
+Placio Home Care KO-17,2018PM017142,,5500,181901176,Srinath Sundar,cash,half-yearly,2018-06-26,paid
+Placio AK Mansion,2018PMI03141,,11500,181900865,ABHISHEK RAJAK,cash,monthly,2018-05-24,paid
+Placio Home Care KO-17,2018PM017140,,5500,181901121,Shivam Mittal,cash,quarterly,2018-06-26,paid
+Placio AK Mansion,2018PMI03139,,1000,181900948,VIVEK PARMAR,cash,monthly,2018-06-19,paid
+Placio Home Care KO-17,2018PM017138,,5500,181900928,Mridul Jain,cash,half-yearly,2018-06-15,paid
+Placio Home Care KO-17,2018PM017137,,30000,181900928,Mridul Jain,cash,half-yearly,2018-06-18,paid
+Placio AK Mansion,2018PMI03136,,1000,181900850,AJAY JAIN,cash,monthly,2018-06-07,paid
+Placio Home Care SL02,2018PM018135,54544,35000,181900913,Rohit Singh,cheque,half-yearly,2018-05-30,paid
+Placio AK Mansion,2018PMI03134,,5000,181900844,KRISHNA KUMAR PATEL,cash,monthly,2018-06-07,paid
+Placio AK Mansion,2018PMI03133,,500,181900844,KRISHNA KUMAR PATEL,cash,monthly,2018-05-24,paid
+Placio AK Mansion,2018PMI03132,,69600,181900843,ISHWAR SINGH PARMAR,cash,,2018-06-29,pending
+Placio AK Mansion,2018PMI03131,,69600,181900843,ISHWAR SINGH PARMAR,cash,,2018-06-29,pending
+Placio AK Mansion,2018PMI03130,,2000,181900841,CHETAN JAIN,cash,monthly,2018-06-07,paid
+Placio Home Care SL02,2018PM018129,,6500,181900913,Rohit Singh,cash,half-yearly,2018-05-22,paid
+Placio AK Mansion,2018PMI03128,,250,181900838,SUDHIR SAHU,cash,monthly,2018-06-14,paid
+Placio AK Mansion,2018PMI03127,,11500,181900838,SUDHIR SAHU,cash,monthly,2018-05-24,paid
+Placio AK Mansion,2018PMI03126,,250,181900840,DEEPNARAN YADAV,cash,monthly,2018-06-14,paid
+Placio AK Mansion,2018PMI03124,,11500,181900840,DEEPNARAN YADAV,cash,monthly,2018-05-24,paid
+Placio Home Care KO-11,2018PM015123,19424288146,5500,181901112,Naman Agrawal,paytm,,2018-06-26,paid
+Placio GR Homes,2018PFI02122,,18000,181900839,PRAGALBHI JOSHI,cash,monthly,2018-06-19,paid
+Placio Yash Homes,2018PM021118,190701,5500,181901129,Charitarth Sindhu,cheque,half-yearly,2018-06-30,paid
+Placio AK Mansion,2018PMI03111,,11500,181900840,DEEPNARAN YADAV,cash,monthly,2018-05-24,paid
+Placio AK Mansion,2018PMI03110,,11500,181900837,ANKIT SINGH YADAV,cash,monthly,2018-05-24,paid
+Placio AK Mansion,2018PMI03109,,250,181900837,ANKIT SINGH YADAV,cash,monthly,2018-06-14,paid
+Placio AK Mansion,2018PMI03108,,12500,181900791,PIYUSH TRIVEDI,cash,monthly,2018-06-19,paid
+Placio Admire Homes,2018PM006107,,5500,181900761,Rahil Kapoor,cash,half-yearly,2018-05-30,paid
+Placio Angel Paradise,2018PFI01106,,2000,181900788,NIDHI CHOUHAN,cash,monthly,2018-06-21,paid
+Placio Angel Paradise,2018PFI01105,,2000,181900738,SHIVANI PARIHAR,cash,monthly,2018-06-21,paid
+Placio Admire Homes,2018PM006104,19421393691,500,181901088,Suyash Srivastava,paytm,half-yearly,2018-06-26,paid
+Placio Angel Paradise,2018PFI01103,,14500,181900784,SACHITA MANDLOI,cash,monthly,2018-06-07,paid
+Placio Angel Paradise,2018PFI01101,,14000,181900782,AYUSHI GEDA,cash,monthly,2018-06-14,paid
+Placio Angel Paradise,2018PFI01100,,7000,181900781,MONIKA CHATURVEDI,cash,monthly,2018-05-24,paid
+Placio Angel Paradise,2018PFI0199,100088,14500,181900779,KOPAL SHUKLA,cheque,monthly,2018-06-07,paid
+Placio Admire Homes,2018PM00698,,5500,181900793,Sarthak Jolly,cash,half-yearly,2018-05-30,paid
+Placio Admire Homes,2018PM00697,SAA366600998,43500,181900793,Sarthak Jolly,online,half-yearly,2018-06-22,paid
+Placio Angel Paradise,2018PFI0196,,1000,181900777,DIKSHA MURAMKAR,cash,monthly,2018-06-14,paid
+Placio Angel Paradise,2018PFI0195,,7250,181900778,SALONI SHARMA,cash,monthly,2018-06-07,paid
+Placio Admire Homes,2018PM00694,,5500,181900760,Mathews Pwilipv,cash,half-yearly,2018-04-17,paid
+Placio Admire Homes,2018PM00693,,28000,181900760,Mathews Pwilipv,cash,half-yearly,2018-05-19,paid
+Placio Admire Homes,2018PM00692,,69000,181900767,Ayush Sharma,cash,half-yearly,2018-05-29,paid
+Placio Admire Homes,2018PM00691,,5500,181900767,Ayush Sharma,cash,half-yearly,2018-04-25,paid
+Placio Angel Paradise,2018PFI0190,715407,13500,181900776,PARUL DWIVEDI,cheque,monthly,2018-05-19,paid
+Placio Admire Homes,2018PM00689,,5500,181900766,Sahil Stan,cash,half-yearly,2018-05-01,paid
+Placio Admire Homes,2018PM00688,SBIN118148863718,69000,181900766,Sahil Stan,online,half-yearly,2018-05-28,paid
+Placio Angel Paradise,2018PFI0187,,15000,181900775,SHRUTI MISHRA,cash,monthly,2018-06-07,paid
+Placio Angel Paradise,2018PFI0186,,7000,181900774,LATA MOHARE,cash,monthly,2018-06-21,paid
+Placio Angel Paradise,2018PFI0185,,15000,181900772,RASHMI MADHUKAR,cash,monthly,2018-06-14,paid
+Placio Angel Paradise,2018PFI0184,,13000,181900771,KAJAL MEENA,cash,monthly,2018-06-19,paid
+Placio Angel Paradise,2018PFI0183,,2000,181900771,KAJAL MEENA,cash,monthly,2018-06-14,paid
+Placio Angel Paradise,2018PFI0182,,15000,181900783,MANYA SURANA,cash,monthly,2018-06-14,paid
+Placio Angel Paradise,2018PFI0181,,16000,181900765,ANURADHA SINGH,cash,monthly,2018-06-14,paid
+Placio Angel Paradise,2018PFI0180,,16000,181900768,DEEPA SINGH,cash,monthly,2018-06-14,paid
+Placio Angel Paradise,2018PFI0179,,1000,181900763,SUSHMITA SINGH GURJAR,cash,monthly,2018-06-14,paid
+Placio Admire Homes,2018PM00678,18981948035,5500,181900757,Raghav Agarwal,paytm,half-yearly,2018-05-23,paid
+Placio Vinayaka,2018PMI0177,,12000,181900921,DEVANSH GOYAL,cash,monthly,2018-06-21,paid
+Placio Vinayaka,2018PMI0176,,2000,181900921,DEVANSH GOYAL,cash,monthly,2018-06-19,paid
+Placio Admire Homes,2018PM00675,SBIN518178828060,87000,181900757,Raghav Agarwal,online,half-yearly,2018-06-27,paid
+Placio Vinayaka,2018PMI0174,,2000,181900919,GHANSHYAM CHOUDHARY,cash,monthly,2018-06-14,paid
+Placio Vinayaka,2018PMI0173,,6350,181900912,YASHWARDHAN KHICHI,cash,,2018-06-11,paid
+Placio Amy House,2018PM00472,,500,181900201,Rajkumar patel,cash,quarterly,2018-06-27,paid
+Placio Vinayaka,2018PMI0171,,7350,181900939,MAHAVEER SINGH UMATH,cash,monthly,2018-06-14,paid
+Placio Amy House,2018PM00470,,5500,181901140,Jawad Ali,cash,quarterly,2018-06-27,paid
+Placio Vinayaka,2018PMI0169,121442,5300,181900934,YOGENDRA GAUTAM,cheque,monthly,2018-06-29,paid
+Placio Amy House,2018PM00468,,500,181900905,Angkuran Dey,cash,half-yearly,2018-03-28,paid
+Placio Amy House,2018PM00467,,5000,181900905,Angkuran Dey,cash,half-yearly,2018-03-28,paid
+Placio Vinayaka,2018PMI0166,121442,5300,181900935,SIDDHARTH KUMAR VISHWAKARMA,cheque,monthly,2018-06-07,paid
+Placio Vinayaka,2018PMI0165,,10850,181900920,NITESH PATEL,cash,monthly,2018-06-14,paid
+Placio Vinayaka,2018PMI0164,,2000,181900920,NITESH PATEL,cash,monthly,2018-06-07,paid
+Placio Vinayaka,2018PMI0163,,12000,181900931,ABHAYKANT TIWARI,cash,monthly,2018-06-07,paid
+Placio Amy House,2018PM00462,,5500,181900904,Aikantik Bagh,cash,half-yearly,2018-03-28,paid
+Placio Vinayaka,2018PMI0161,,6800,181900933,VIJAY PAL SINGH PARIHAR,cash,monthly,2018-06-29,paid
+Placio Amy House,2018PM00460,,500,181900207,Kanchan Ghosh,cash,quarterly,2018-06-27,paid
+Placio Amy House,2018PM00459,199043,96000,181900205,Samuel Renvungo Mozhvi,cheque,half-yearly,2018-06-22,paid
+Placio Vinayaka,2018PMI0158,,7050,181900929,UTTAM SHARMA,cash,monthly,2018-06-07,paid
+Placio Vinayaka,2018PMI0157,,5500,181900926,YASHDEEP SAHU,cash,monthly,2018-06-07,paid
+Placio Divya Homes,2018PF00650,PF006409B,7000,181900758,SHRINGARIKA RAJ SINGH,online,half-yearly,2018-06-29,paid
+Placio Amy House,2018PM00449,N150180116608364,100000,181900027,Rohan Rai,online,half-yearly,2018-05-30,paid
+Placio Divya Homes,2018PF00648,,500,181900755,GAZAL SHARMA,cash,half-yearly,2018-06-16,paid
+Placio Divya Homes,2018PF00646,,64500,181900753,YASHASWI RAJPOOT,cash,half-yearly,2018-06-16,paid
+Placio Atlantis Homes,2018PF00745,,5500,181900857,Aarti Sharma,cash,half-yearly,2018-05-10,paid
+Placio Shresth Homes,2018PF00244,Being 211070869/000135342701,100000,181900853,Manuja Vats,online,half-yearly,2018-06-11,paid
+Placio Shresth Homes,2018PF00243,SBIN218148086511,68000,181900852,Sonam Mandal,online,half-yearly,2018-05-28,paid
+Placio Prime Living,2018PM00341,PM003502A,5500,181900431,Somaan Ahmad Khan,online,quarterly,2018-04-16,paid
+Placio Shresth Homes,2018PF00240,211070869,60000,181900849,Stuti Gupta,online,half-yearly,2018-06-14,paid
+Placio Shresth Homes,2018PF00239,211070869,5500,181900849,Stuti Gupta,online,half-yearly,2018-05-10,paid
+Placio Prestige Living,2018PM00238,,5500,181901068,Harman singh Kamra,cash,half-yearly,2018-06-29,pending
+Placio Shresth Homes,2018PF00237,,5500,181901130,Aanchal Sharma,cash,half-yearly,2018-06-27,paid
+Placio Prestige Living,2018PM00236,CMS Collection,72000,181900098,Som Joshi,online,half-yearly,2018-05-22,paid
+Placio Prime Living,2018PM00335,,5500,181900430,Aryan Singh,cash,quarterly,2018-06-19,paid
+Placio Prestige Living,2018PM00234,19400534202,5500,181901067,Arun P S Rajawat,paytm,quarterly,2018-06-24,paid
+Placio Prestige Living,2018PM00233,18842602479,5500,181900098,Som Joshi,paytm,half-yearly,2018-05-12,paid
+Placio Prestige Living,2018PM00232,,5500,181900909,Aman Sharma,cash,quarterly,2018-06-29,pending
+Placio Prestige Living,2018PM00231,,5500,181900940,Molik,cash,quarterly,2018-06-12,paid
+Placio Prestige Living,2018PM00230,19408776517,5500,181901074,Ansh Khanna,paytm,quarterly,2018-06-25,paid
+Placio Prestige Living,2018PM00229,,5500,181900964,Ramandeep Singh,cash,half-yearly,2018-06-29,pending
+Placio Prestige Living,2018PM00228,19383022788,5500,181900911,Krushna Chandra Das,paytm,quarterly,2018-06-23,paid
+Placio Prestige Living,2018PM00227,19346875526,5500,181900800,Sudharshan.N,paytm,half-yearly,2018-06-20,paid
+Placio Venus,2018PF00425,,43200,181900899,MEGHA TRIVEDY,online,half-yearly,2018-06-25,paid
+Placio Venus,2018PF00424,,36000,181900895,Sabi Agarwal,online,half-yearly,2018-06-12,pending
+Placio Venus,2018PF00423,,72000,181900280,Priya Srivastava,cheque,half-yearly,2018-05-10,paid
+Placio Shresth Homes,2018PF00221,,5500,181900848,Simran Srivastava,cash,half-yearly,2018-05-07,paid
+Placio Pavillion,2018PM00820,,5500,181900751,Madhav Katarya,cash,half-yearly,2018-04-19,paid
+Placio Pavillion,2018PM00819,,5500,181900025,Arindam roy,cash,half-yearly,2018-04-13,paid
+Placio Pavillion,2018PM00818,,54000,181900140,Kabeer Arora,cash,half-yearly,2018-05-25,paid
+Placio Pavillion,2018PM00817,,5500,181900140,Kabeer Arora,cash,half-yearly,2018-04-17,paid
+Placio Pavillion,2018PM00816,,5500,181900017,Divyaraj Shekhawat,cash,half-yearly,2018-04-19,paid
+Placio Pavillion,2018PM00815,,500,181900293,Shaurya Bhav Sharma,cash,half-yearly,2018-04-27,paid
+Placio Pavillion,2018PM00814,,60000,181900293,Shaurya Bhav Sharma,cash,half-yearly,2018-06-21,paid
+Placio Pavillion,2018PM00813,,500,181900026,Tarang Agarwal,cash,half-yearly,2018-04-27,paid
+Placio Pavillion,2018PM00812,,108000,181900748,Raj Gaurav,online,half-yearly,2018-05-29,paid
+Placio Pavillion,2018PM00811,,132000,181900747,Digvijay Rana,cash,half-yearly,2018-06-28,pending
+Placio Pavillion,2018PM00810,,54000,181901142,Abhishek Sarda,online,half-yearly,2018-06-13,paid
+Placio Pavillion,2018PM0089,,100,181900752,Aishik Bose,cash,half-yearly,2018-05-10,paid
+Placio Pavillion,2018PM0088,,239900,181900752,Aishik Bose,cash,half-yearly,2018-05-10,paid
+Placio Pavillion,2018PM0087,,5500,181900752,Aishik Bose,cash,half-yearly,2018-04-21,paid
+Placio Pavillion,2018PM0086,,1000,181900754,Kanad Roy,cash,half-yearly,2018-05-06,paid
+Placio Pavillion,2018PM0085,Online,239000,181900754,Kanad Roy,online,half-yearly,2018-05-08,paid
+Placio Pavillion,2018PM0084,,108000,181900025,Arindam roy,cash,half-yearly,2018-05-25,paid
+Placio Pavillion,2018PM0083,,5500,181900754,Kanad Roy,cash,half-yearly,2018-04-21,paid
+Placio Pavillion,2018PM0082,,5500,181900748,Raj Gaurav,cash,half-yearly,2018-05-10,paid
