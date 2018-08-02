@@ -1,0 +1,15 @@
+Property Name,Invoice ID,TXN ID,Collected Amount,Tenant Code,Tenant Name,Mode,Term,Date,Status
+-,-,-,TOTAL AMOUNT : 354100,-,-,-,-,-,-
+Placio Imperial Homez,2018PF0121019,20180731 15390900,5500,18192341,ritika jaiswal,paytm,monthly,2018-07-31,pending
+Placio Pride Stay,2018PM0251011,,21500,18192160,VISHWAJEET KUMAR,cash,monthly,2018-07-31,pending
+Placio Pride Stay,2018PM0251010,,10200,181901457,VISHESH SINGH,cash,monthly,2018-07-31,pending
+Placio Pride Stay,2018PM0251009,IRH0353088,25000,18191519,AUSAF MOMIN,online,monthly,2018-07-31,pending
+Placio Pride Stay,2018PM0251008,4964,18500,18191521,SRIJAN DIXIT,cheque,monthly,2018-07-31,pending
+Placio Pride Stay,2018PM0251007,820818869584,6900,181901325,AARYAV ANAND,online,monthly,2018-07-31,pending
+Placio Pride Stay,2018PM0251006,820322025754,17500,181901346,ANUJ PRAJAPATI,online,monthly,2018-07-31,pending
+Placio RG Niwas,2018PF009993,,13000,18192337,SAIMA BHAT,cash,monthly,2018-07-31,pending
+Placio Elite Homes 2,2018PF003992,749346,64000,18192290,Rajasmita Chatterjee,cheque,half-yearly,2018-07-31,pending
+Placio Elite Homes 2,2018PF003991,749345,64000,18192290,Rajasmita Chatterjee,cheque,half-yearly,2018-07-31,pending
+Placio Elite Homes 2,2018PF003990,749344,64000,18192290,Rajasmita Chatterjee,cheque,half-yearly,2018-07-31,pending
+Placio Ashoka Inn,2018PM024981,,22000,18192317,DRAVIN VERMA,cash,monthly,2018-07-31,pending
+Placio Ashoka Inn,2018PM024980,1501779535,22000,18192316,R C SAI CHARAN,online,monthly,2018-07-31,paid
