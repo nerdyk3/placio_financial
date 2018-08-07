@@ -1,0 +1,9 @@
+Property Name,Invoice ID,TXN ID,Collected Amount,Tenant Code,Tenant Name,Mode,Term,Date,Status
+Placio RG Niwas,2018PF0091183,,14650,18192459,SHIKHA GUPTA,cash,monthly,2018-08-05,pending
+Placio Angel Paradise,2018PFI011159,,8000,18192466,Parvati Kori,cash,monthly,2018-08-05,pending
+Placio Prime Living,2018PM0031157,,16500,181900420,Arun Gupta,cash,,2018-08-05,pending
+Placio Imperial Homez,2018PF0121156,,12000,18192464,sonali sharma,cash,monthly,2018-08-05,pending
+Placio Ashoka Inn,2018PM0241155,19879078012,8950,18192240,RINKESH SINGH,online,monthly,2018-08-05,pending
+Placio Ashoka Inn,2018PM0241154,19879078012,8950,18192243,RITESH SINGH,online,monthly,2018-08-05,pending
+Placio Ashoka Inn,2018PM0241153,821709958663,9880,181901117,SUMIT DINESH SANGHANI,online,monthly,2018-08-05,pending
+Placio Ashoka Inn,2018PM024983,19859856778,5500,18192318,ARYAN KATURIA,paytm,monthly,2018-08-05,paid
